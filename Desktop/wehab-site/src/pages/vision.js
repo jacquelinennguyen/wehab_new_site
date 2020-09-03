@@ -1,11 +1,15 @@
 import React from "react"
 import {Link} from 'gatsby'
 import Layout from '../components/layout'
+import '../components/layout.module.scss'
 
 const AboutPage = () => {
     return (
         <Layout>
-            <h1>Vision</h1>
+        <head>
+            <title>Wehab Lab Site</title>
+        </head>
+            <h1 class="push-down">Vision</h1>
         </Layout>
     )
 }

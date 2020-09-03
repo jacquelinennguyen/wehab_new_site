@@ -11,7 +11,7 @@ const Header = () => {
                 </h1>
             </Link>
             <nav>
-                <ul className={HeaderStyles.navList} id={HeaderStyles.right}>
+                <ul className={HeaderStyles.navList}>
                     <li>
                         <Link className={HeaderStyles.link} to='/vision'>Vision</Link>
                     </li>

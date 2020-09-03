@@ -1,23 +1,33 @@
 .header {
+    background-color: #ffffff;
     display: flex;
-    position: fixed;
     width: 100%;
-    border: 0px solid gainsboro;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    border-bottom: 1px solid gray;
+    margin: 0 auto;
+    z-index: 1000;
 }
 
 .title {
     color: #000000;
     font-size: .9rem;
     text-decoration: none;
+    position: relative;
+    left: 200px;
+    bottom: 5px;
 }
 
 .nav-list {
     display: flex;
     list-style-type: none;
-    margin-left: 0px;
-    vertical-align: auto;
-    padding: 1rem;
-    border: 1px solid yellow;
+    padding: 0;
+    position: relative;
+    left: 400px;
+    top: 5px;
 }
 
 .link {

@@ -1,0 +1,20 @@
+.grid {
+    display: grid;
+    border: 2px blue solid;
+    width: 1060px;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 0 auto;
+}
+
+.box {
+    text-align: center;
+    min-height: 200px;
+    color: black;
+    border: 2px solid #909090;
+    margin: 10px;
+  }
+
+img {
+    width: 100%;
+    max-height: 160px;
+}

@@ -6,8 +6,10 @@ import Layout from '../components/layout'
 const HomePage = () => {
   return (
     <Layout>
-      <h1>This is the home page.</h1>
-      <h2>This is h2.</h2>
+      <main class="container">
+        <h1>This is the home page.</h1>
+        <h2>This is h2.</h2>
+      </main>
     </Layout>
   )
 }
