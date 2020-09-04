@@ -9,7 +9,7 @@ const AboutPage = () => {
         <head>
             <title>Wehab Lab Site</title>
         </head>
-            <h1 class="push-down">Vision</h1>
+            <h1>Vision</h1>
         </Layout>
     )
 }

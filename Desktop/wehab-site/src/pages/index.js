@@ -6,10 +6,10 @@ import Layout from '../components/layout'
 const HomePage = () => {
   return (
     <Layout>
-      <main class="container">
+      <body>
         <h1>This is the home page.</h1>
         <h2>This is h2.</h2>
-      </main>
+      </body>
     </Layout>
   )
 }

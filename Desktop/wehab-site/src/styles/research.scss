@@ -1,6 +1,6 @@
 .grid {
     display: grid;
-    border: 2px blue solid;
+    border: 2px white solid;
     width: 1060px;
     grid-template-columns: repeat(3, 1fr);
     margin: 0 auto;
@@ -11,10 +11,16 @@
     min-height: 200px;
     color: black;
     border: 2px solid #909090;
-    margin: 10px;
+    margin: 30px;
   }
 
-img {
+.reframe {
+    height: 160px;
     width: 100%;
-    max-height: 160px;
+}
+
+.reframe img {
+    height: auto;
+    width: 100%;
+    overflow: hidden;
 }

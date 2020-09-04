@@ -7,17 +7,18 @@ const ResearchPage = () => {
     return (
         <Layout>
             <h1>Research</h1>
+            <p>Blurb about the research</p>
             <div class="grid container">
                 <div class="box">
-                    <img src="https://hips.hearstapps.com/hmg-prod/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png" alt="Berry smoothie"></img>
+                    <img className="reframe" src="https://hips.hearstapps.com/hmg-prod/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png" alt="Berry smoothie"></img>
                     <h4>Article 1</h4>
                 </div>
                 <div class="box">
-                    <img src="https://hips.hearstapps.com/hmg-prod/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png" alt="Berry smoothie"></img>
+                    <img className="reframe" src="https://hips.hearstapps.com/hmg-prod/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png" alt="Berry smoothie"></img>
                     <h4>Article 2</h4>
                 </div>
                 <div class="box">
-                    <img src="https://hips.hearstapps.com/hmg-prod/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png" alt="Berry smoothie"></img>
+                    <img className="reframe" src="https://hips.hearstapps.com/hmg-prod/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png" alt="Berry smoothie"></img>
                     <h4>Article 3</h4>
                 </div>
                 <div class="box">Article 4</div>
