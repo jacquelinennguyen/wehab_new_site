@@ -12,13 +12,17 @@
     z-index: 1000;
 }
 
-.title {
+.title h1{
     color: #000000;
-    font-size: .9rem;
+    font-size: 30px;
     text-decoration: none;
     position: relative;
     left: 200px;
-    bottom: 5px;
+    top: 10px;
+}
+
+.title:hover {
+    text-decoration: none;
 }
 
 .nav-list {
@@ -27,13 +31,18 @@
     padding: 0;
     position: relative;
     left: 400px;
-    top: 5px;
+    top: 15px;
 }
 
 .link {
     color: black;
     text-decoration: none;
     margin-right: 1.3rem;
+}
+
+.link:hover {
+    text-decoration: none;
+    color: #777777;
 }
 
 #right {

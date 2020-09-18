@@ -1,0 +1,18 @@
+.article-nav {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.article-nav a {
+    text-decoration: none;
+    color: gray;
+    font-size: .8rem;
+    margin-right: 10px;
+}
+
+.hght-10 {
+    height: auto;
+    width: 100%;
+}
