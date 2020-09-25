@@ -8,7 +8,6 @@ const HomePage = () => {
     <Layout>
       <body>
         <h1>This is the home page.</h1>
-        <h2>This is h2.</h2>
       </body>
     </Layout>
   )

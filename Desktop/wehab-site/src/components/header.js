@@ -20,6 +20,9 @@ const Header = () => {
                         <Link className={HeaderStyles.link} to='/publications'>Publications</Link> 
                     </li>
                     <li>
+                        <Link className={HeaderStyles.link} to='/cv'>CV</Link> 
+                    </li>                    
+                    <li>
                         <Link className={HeaderStyles.link} to='/research'>Research</Link>
                     </li>
                     <li>
