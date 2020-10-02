@@ -14,13 +14,9 @@ const Header = () => {
                 <ul className={HeaderStyles.navList}>
                     <li>
                         <Link className={HeaderStyles.link} to='/vision'>Vision</Link>
-                    </li>
-                    
+                    </li>  
                     <li>
                         <Link className={HeaderStyles.link} to='/publications'>Publications</Link> 
-                    </li>
-                    <li>
-                        <Link className={HeaderStyles.link} to='/cv'>CV</Link> 
                     </li>                    
                     <li>
                         <Link className={HeaderStyles.link} to='/research'>Research</Link>
@@ -30,6 +26,9 @@ const Header = () => {
                     </li>
                     <li>
                         <Link className={HeaderStyles.link} to='/'>Director</Link>
+                    </li>
+                    <li>
+                        <Link className={HeaderStyles.link} to='/cv'>CV</Link> 
                     </li>
                     <li>
                         <Link className={HeaderStyles.link} to='/contact'>Contact</Link>
