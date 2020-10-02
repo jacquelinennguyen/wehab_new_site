@@ -10,7 +10,6 @@ const PublicationsPage = () => {
     return (
         <Layout>
             <h1>Publications</h1>
-            <p>Some links could go here/Blurb?</p>
             <hr></hr>
                 <h2>Research Articles</h2>
             <Container>
@@ -51,7 +50,7 @@ const PublicationsPage = () => {
                         </a> 
                         <i> 8th International Conference on. Affective Computing & Intelligent Interaction (ACII);</i>
                     </Col>
-                    <Col>2 of 3</Col>
+                    <Col></Col>
                 </Row>
                 <hr></hr>
                 <Row>
@@ -66,7 +65,7 @@ const PublicationsPage = () => {
                                 </li>
                         </ul>
                     </Col>
-                    <Col>2 of 3</Col>
+                    <Col></Col>
                 </Row>
                 <hr></hr>
                 <Row>
@@ -83,7 +82,7 @@ const PublicationsPage = () => {
                             </li>
                         </ul>
                     </Col>
-                    <Col>2 of 3</Col>
+                    <Col></Col>
                 </Row>
                 <hr></hr>
                 <Row>
@@ -93,10 +92,83 @@ const PublicationsPage = () => {
                         <a href="https://par.nsf.gov/servlets/purl/10092339"> Emotion regulation in the wild: Introducing WEHAB system architecture. </a>
                         In <i>Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems</i> (p. LBW021). ACM. doi:10.1145/3170427.3188495                    
                     </Col>
-                    <Col>2 of 3</Col>
+                    <Col></Col>
                 </Row>
-                <hr></hr>
             </Container>
+            <hr />
+            <h2>
+                Conferences
+            </h2>
+            <p>
+                10 pages double column peer-reviewed
+            </p>
+            <Container>
+                <Row>
+                    <Col md={10}>
+                        <strong>Miri, P.</strong>, Jusuf, E., Uusberg, A., Margarit, H., Isbister K., Marzullo K., Gross J. J. <a href="https://doi.org/10.1145/3313831.3376757">“PIV++: Evaluating a Personalizable, Inconspicuous Vibrotactile (PIV) Breathing Pacer for In-the-Moment Affect Regulation"</a>, in <i>ACM Transactions on Computer-Human Interaction (CHI) 2020.</i>  Best Paper Honorable Mention Award (Top 5%)
+                    </Col>
+                </Row>
+                <hr />
+                <Row>
+                    <Col md={10}>
+                        <strong>Miri, P.</strong>, Flory, R., Uusberg, A., Uusberg, H., Gross, J., and Isbister, K., <a href="http://mentalhealth.media.mit.edu/wp-content/uploads/sites/15/2017/05/CMH_2017_paper_10.pdf">“HapLand: A Scalable Robust Emotion Regulation Haptic System Testbed"
+                        </a>, in <i>Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems, Denver CO, USA, May 2017</i>
+                    </Col>
+                </Row>
+                <hr />
+                <Row>
+                    <Col md={10}>
+                        Billman, D., Schreckenghost, D., and <strong>Miri, P.</strong>, <a href="https://www.hfes.org/web/HFESmeetings/upcoming.html">“Assessment of Alternative Interfaces for Manual Commanding of Spacecraft Systems Compatibility with Flexible Allocation Policies"</a>
+                        , in <i>Proceedings of the Human Factors and Ergonomics</i>, October 2014
+                    </Col>
+                </Row>
+                <hr />
+                <Row>
+                    <Col md={10}>
+                        Radhika Niranjan Mysore, Andreas Pamboris, Nathan Farrington, Nelson Huang, <strong>Miri, P.</strong>, Sivasankar Radhakrishnan, Vikram Subramanya, and Amin Vahdat, <a href="http://ccr.sigcomm.org/online/files/p39.pdf">“PortLand: A Scalable Fault-Tolerant Layer 2 Data Center Network Fabric,"</a> in <i>Proceedings of the ACM SIGCOMM Conference</i>, August 2009
+                    </Col>
+                </Row>
+                <hr />
+                <Row>
+                    <Col md={10}>
+                        <strong>Miri, P.</strong>, Ghavami, B., Najibi, M. and Pedram, H., <a href="https://pdfs.semanticscholar.org/5657/0f5c00d90416759bf565e7c553600789d759.pdf">"Exploring an AES Crypto-processor Design Using a Secure Asynchronous Toolset."</a> in <i>Design Automation Conference</i> (IEEE Cat 2008)
+                    </Col>
+                </Row> 
+            </Container>
+            <hr />
+            <h2>
+                Patents
+            </h2>
+            <Container>
+                <Row>
+                    <Col md={10}>
+                        <strong>Miri, P.</strong>, Flory, R., Marzullo, K., and Gross, J., Stanford University, 2020. Personalizable, Inconspicuous Vibro- tactile Breathing Pacer. Patent date Filed Dec 1, 2019 by The Board of Trustees of the Leland Stanford Junior University, Stanford, CA Power of Attorney: Isaac Fine–74274
+                    </Col>
+                </Row>
+                <hr />
+                <Row>
+                    <Col md={10}>
+                        <strong>Miri, P.</strong>, Garg, P., Schultz, B., Singhal, S.K. and Sivakumar, M., Microsoft Corp, 2014. <a href="https://patents.google.com/patent/US8806005B2/en">Cross-machine event log correlation</a>. U.S. Patent 8,806,005 (patent number 20130067067)
+                    </Col>
+                </Row>
+            </Container>
+
+            <hr />
+            <h2>Workshop and Extended Abstracts</h2>
+            <Container>
+                <Row>
+                    <Col md={10}>
+                        <strong>Miri, P.</strong>, Jusuf, E., Gross J. J., Isbister K., Marzullo K. (in press). <a href="https://wehab.stanford.edu/wp-content/uploads/2019/08/ACII2019_miri_2019_shortV-1.pdf">"Affect regulation using technology: Lessons learned by taking a multidisciplinary perspective."</a>, in <i>8th International Conference on Affective Computing and Intelligent Interaction (ACII) 2019</i>
+                    </Col>
+                </Row>
+                <hr />
+                <Row>
+                    <Col md={10}>
+                        <strong>Miri, P.</strong>, Uusberg, A., Culbertson, H., Flory, R., Uusberg, H., Gross J. J., Marzullo K., Isbister K. <a href="https://par.nsf.gov/servlets/purl/10092339">"Emotion Regulation in the Wild: Introducing WEHAB System Architecture."</a>, in <i>Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems (ACM) 2018</i>
+                    </Col>
+                </Row>
+            </Container>
+            <hr />
         </Layout>
     )
 }
