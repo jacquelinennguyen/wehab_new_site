@@ -2,15 +2,12 @@ import React from "react"
 import {Link} from 'gatsby'
 import Layout from '../components/layout'
 
-const ContactPage = () => {
+const DirectorPage = () => {
     return (
         <Layout>
-            <h1>Contact Us</h1>
-            <p>
-                
-            </p>
+            <h1>Director</h1>
         </Layout>
     )
 }
 
-export default ContactPage
+export default DirectorPage
