@@ -12,9 +12,9 @@ const Header = () => {
             </Link>
             <nav>
                 <ul className={HeaderStyles.navList}>
-                    <li>
+{/*                    <li>
                         <Link className={HeaderStyles.link} to='/vision'>Vision</Link>
-                    </li>  
+</li>  */}
                     <li>
                         <Link className={HeaderStyles.link} to='/publications'>Publications</Link> 
                     </li>                    

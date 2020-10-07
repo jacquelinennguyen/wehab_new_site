@@ -1,5 +1,5 @@
 import React, {Component,useState} from "react";
-import '../../../about/about.css';
+// import '../../../about/about.css';
 
 
 import { Button } from "@material-ui/core";
@@ -43,10 +43,9 @@ const Far = () => {
     };
 
         return(                            
-                <div  className="project-container" >
+                <div className="project-container" >
                     <span className="hover-span">
-
-                        <Button className="project-button" variant="contained" color="primary" onClick={handleOpen} >FAR</Button>
+                      <Button className="project-button" variant="contained" color="primary" onClick={handleOpen} >FAR</Button>
                         <Modal
                         aria-labelledby="transition-modal-title"
                         aria-describedby="transition-modal-description"

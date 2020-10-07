@@ -1,5 +1,5 @@
 import React, {Component,useState} from "react";
-import '../../../about/about.css';
+// import '../../../about/about.css';
 
 import Paper from '@material-ui/core/Card';
 import { Button } from "@material-ui/core";

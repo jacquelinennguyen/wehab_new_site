@@ -2,11 +2,50 @@ import React from "react"
 import {Link} from 'gatsby'
 import Layout from '../components/layout'
 import ResearchStyles from '../styles/research.scss'
+import Far from '../components/projects/FAR/far'
+import PIVplus from '../components/projects/PIV++/piv++'
+import PIV from '../components/projects/PIV/piv'
+import Hapland from '../components/projects/HAPLAND/hapland'
+import Wehab from '../components/projects/WEHAB/wehab'
+import { Grid } from "@material-ui/core";
 
 const ResearchPage = () => {
     return (
         <Layout>
             <h1>Research</h1>
+            <Grid container>
+              <Grid item xs={4}> 
+                <Far />          
+              </Grid>
+
+              <Grid item xs={4}>
+                <PIVplus />
+              </Grid>
+
+              <Grid item xs={4}>
+                <PIV />
+              </Grid>            
+            </Grid>
+            
+            <Grid container className="bottom-grid"> 
+              <Grid item xs={4}>
+                <Hapland />
+              </Grid>
+
+              <Grid item xs={4}>
+                <Wehab />
+              </Grid>
+
+            </Grid>
+
+
+        </Layout>
+    )
+}
+
+export default ResearchPage
+
+/*    OLD CODE -- DO NOT USE
             <p>Blurb about the research</p>
             <div class="research-grid">
                 <div class="research-box">
@@ -70,8 +109,4 @@ const ResearchPage = () => {
                     </div>
                 </div>
   </div>
-        </Layout>
-    )
-}
-
-export default ResearchPage
+*/
