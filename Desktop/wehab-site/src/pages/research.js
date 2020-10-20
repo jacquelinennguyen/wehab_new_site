@@ -9,7 +9,7 @@ import Col from 'react-bootstrap/Col'
 const ResearchPage = () => {
     return (
         <Layout>
-            <p>Blurb about the research</p>
+            <h1>Research</h1>
                 <Container>
                     <Row>
                         <Col md={4} sm={6} xs={12}>
