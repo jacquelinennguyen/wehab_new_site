@@ -1,16 +1,24 @@
-.team-grid {
-    display: grid;
-    border: 2px white solid;
-    width: 1060px;
-    grid-template-columns: repeat(2, 1fr);
-    margin: 0 auto;
+.team-name{
+    font-size: 26px;
 }
 
-.team-box {
-    display: inline;
-    float: left;
-    min-height: 200px;
-    background-color: rgb(207, 207, 207);
-    margin-right: 15%;
-    margin-bottom: 50px;
-  }
+.team-title {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+.team-desc {
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+
+.team-desc a {
+    text-decoration: none;
+    color: darkgrey;
+    font-size: 12px;
+    margin-right: 4px;
+}
+
+.team-desc:hover a {
+    text-decoration: none;
+}

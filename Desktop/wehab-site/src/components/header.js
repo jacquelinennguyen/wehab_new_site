@@ -1,37 +1,40 @@
 import React from "react"
 import {Link} from 'gatsby'
-import HeaderStyles from './header.module.scss'
+import HeaderStyles from '../styles/header.scss'
+import Button from 'react-bootstrap/Button'
+import Collapse from 'react-bootstrap/Collapse'
 
 const Header = () => {
     return (
-        <header className={HeaderStyles.header}>
-            <Link className={HeaderStyles.title} to='/'>
+        <header class="header">
+            <div>
+                <Link className="title" to='/'>
                 <h1>
                     Wehab Lab
                 </h1>
-            </Link>
-            <nav>
-                <ul className={HeaderStyles.navList}>
-{/*                    <li>
-                        <Link className={HeaderStyles.link} to='/vision'>Vision</Link>
-</li>  */}
+                </Link>
+            </div>
+            
+            <button type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="true" aria-controls="navbar">
+                Menu
+            </button>
+
+            <nav id="navbar" aria-expanded="true" class="navbar-collapse">
+                <ul className="nav-list nav-list-right">
                     <li>
-                        <Link className={HeaderStyles.link} to='/publications'>Publications</Link> 
+                        <Link className="link" to='/publications'>Publications</Link> 
                     </li>                    
                     <li>
-                        <Link className={HeaderStyles.link} to='/research'>Research</Link>
+                        <Link className="link" to='/research'>Research</Link>
                     </li>
                     <li>
-                        <Link className={HeaderStyles.link} to='/team'>Team</Link>
+                        <Link className="link" to='/team'>Team</Link>
                     </li>
                     <li>
-                        <Link className={HeaderStyles.link} to='/'>Director</Link>
+                        <Link className="link" to='/director'>Director</Link>
                     </li>
                     <li>
-                        <Link className={HeaderStyles.link} to='/cv'>CV</Link> 
-                    </li>
-                    <li>
-                        <Link className={HeaderStyles.link} to='/contact'>Contact</Link>
+                        <Link className="link" to='/contact'>Contact</Link>
                     </li>
                 </ul>
             </nav>

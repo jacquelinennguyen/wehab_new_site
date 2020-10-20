@@ -1,129 +1,43 @@
-.about-section{
-    color: white;
-    padding: 30px;
-}
-
-.bottom-grid{
-    padding-top: 35px;
-}
-
-.about-heading{
-    text-align: center;
-    padding-bottom: 30px;
-    padding-top: 30px;
-    font-size: 40px;
-}
-
-/*.project-content{
-    width: 100%;
-    height: auto;
-    min-height: 10px;
-    transition: 0.6s;
-    opacity: 1;
-}*/
-
-.project-container{
-    width: auto;
-    /* min-height: 50px; */
-    height: auto;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 100px;
-    border: 2px black solid;
-    background: white;
-    transition: 0.4s;
-    display: flex;
-    z-index: 10;
-    
-}
-
-.content-head{
-    color: #4C4C4C;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
-    font-size: 18px;
-}
-
-
-.hover-span{
-    display: block;
-    font-size: 20px;
-    color: red;
-    font-size: 20px;
+figure .buttons {
     position: absolute;
-    
-    /* top: 20px;
-    left: 50px; */
-    /* left: 40%; */
-    
-    z-index: 10;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
-.project-button{
-    width: auto;
-    align-self: center;
-}
-
-.project-button-hapland{
-    width: auto;
-    top: auto;
-}
-.project-button-wehab{
-    width: auto;
-    top: auto;
-}
-
-.project-image-container{
-    max-width: 100%;
-    max-height: 100%;
-    height: auto;
-    /* border: 3px solid black; */
-}
-
-.project-container:hover {
-    /* opacity: 0.2; */
-    /* top: 20px; */
-    
-    background: rgba(255, 255, 255, 0.1);
-    z-index: 1;
-}
-
-.project-container:hover img{
-    opacity: 0.2;
-    transition: 0.4s;
-}
-
-.project-image{
-    max-width: 100%;
-    max-height: 100%;
-    height: auto;
-    width: auto;
-    /* height: 154px; */
-    opacity: 1;
-}
-
-.john{
-/* !important */
-
-}
-
-.project-container:hover span{
-    display: block;
-    z-index: 100;
-}
-
-
-.learn-more{
-    border: 2px solid black;
-    width: 90px;
-    height: 20px;
+figure .img-overlay a {
+    display: inline-block;
     text-decoration: none;
-    padding-left: 12px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    line-height: 1;
+    margin: 4px;
 }
 
-/*
+figure :hover .img-overlay a {
+    border: 1px #fff solid;
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+}
+
+figure .img-wrapper {
+    position: relative;
+}
+
+figure .img-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    background: rgba(0,0,0,0.5);
+    opacity: 0;
+}
+
+figure :hover .img-overlay {
+    opacity: .8;
+    -webkit-transition: opacity .25s ease-in-out;
+}
+
 .research-grid {
     display: grid;
     border: 2px white solid;
@@ -154,12 +68,12 @@
 .desc-post a {
     text-decoration: none;
 }
-
+/*
 .fade-effect:hover {
-    opacity: .7;
     -webkit-transition: opacity .25s ease-in-out;
+    opacity: 0.7;
 }
-
+*/
 .title-post {
     font-size: 24px;
     text-decoration: none; 
@@ -172,7 +86,136 @@
 }
 
 .title-post a:hover {
-    color: palevioletred;    
+    color: #8c1515;    
     transition: all 0.2s cubic-bezier(0.22, 0.61, 0.36, 1);
 }
+
+/*
+.about-section{
+    color: white;
+    padding: 30px;
+}
+
+.bottom-grid{
+    padding-top: 35px;
+}
+
+.about-heading{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 40px;
+}
+
+/*.project-content{
+    width: 100%;
+    height: auto;
+    min-height: 10px;
+    transition: 0.6s;
+    opacity: 1;
+}*/
+/*
+.project-container {
+    width: auto;
+    /* min-height: 50px; */
+    /*height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 100px;
+    border: 2px black solid;
+    background: white;
+    transition: 0.4s;
+    display: flex;
+    z-index: 10;
+
+}
+
+.content-head {
+    color: #4C4C4C;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+
+.hover-span {
+    display: block;
+    font-size: 20px;
+    color: red;
+    font-size: 20px;
+    position: absolute;
+
+    /* top: 20px;
+    left: 50px; */
+    /* left: 40%; */
+
+   /* z-index: 10;
+}
+
+.project-button {
+    width: auto;
+    align-self: center;
+}
+
+.project-button-hapland {
+    width: auto;
+    top: auto;
+}
+
+.project-button-wehab {
+    width: auto;
+    top: auto;
+}
+
+.project-image-container {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    /* border: 3px solid black; */
+/*}
+
+.project-container:hover {
+    /* opacity: 0.2; */
+    /* top: 20px; */
+
+    /*background: rgba(255, 255, 255, 0.1);
+    z-index: 1;
+}
+
+.project-container:hover img {
+    opacity: 0.2;
+    transition: 0.4s;
+}
+
+.project-image {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    width: auto;
+    /* height: 154px; */
+    /*opacity: 1;
+}
+
+.john {
+    /* !important */
+
+/*}
+
+.project-container:hover span {
+    display: block;
+    z-index: 100;
+}
+
+
+.learn-more {
+    border: 2px solid black;
+    width: 90px;
+    height: 20px;
+    text-decoration: none;
+    padding-left: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 */
