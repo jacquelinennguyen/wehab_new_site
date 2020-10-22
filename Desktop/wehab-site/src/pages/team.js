@@ -249,9 +249,10 @@ const TeamPage = () => {
                             <h3 className="team-name">Jacqueline Nguyen</h3>
                             <h4 className="team-title">
                                 Postgraduate Researcher
+                                
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                
+                                Cognitive Science, B.S., UCLA
                             </div>
                             <p className="team-nav">
                                 <a href="https://www.linkedin.com/in/jacqueline-n-928802b7/">LinkedIn</a>
@@ -259,10 +260,10 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="/" alt="Name"></img>
-                            <h3 className="team-name">Name</h3>
+                            <img class="reframe" src="/" alt="Shree Reddy"></img>
+                            <h3 className="team-name">Shree Reddy</h3>
                             <h4 className="team-title">
-                                Title
+                                Researcher
                             </h4>
                             <div className="team-desc" id="team-desc">
                                 
@@ -307,7 +308,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="/" alt="Ishan Goyal"></img>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/ishan-goyal.jpg?raw=true" alt="Ishan Goyal"></img>
                             <h3 className="team-name">Ishan Goyal</h3>
                             <h4 className="team-title">
                                 
@@ -321,20 +322,254 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="/" alt="Name"></img>
-                            <h3 className="team-name">Name</h3>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/alyssa-jackson.jpg?raw=true" alt="Alyssa Jackson"></img>
+                            <h3 className="team-name">Alyssa Jackson</h3>
                             <h4 className="team-title">
-                                Title
+                                Software Engineer Specialist at SAE International
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                email
+                                Psychology, B.A., ASU
                             </div>
                             <p className="team-nav">
-                                <a href="/">Website</a>
+                                <a href="https://www.linkedin.com/in/alyssa-riah-jackson/">LinkedIn</a>
                                 
                             </p>                         
                         </Col>
-                    </Row>  
+                    </Row> 
+                    <Row>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/emily-jusuf.jpeg?raw=true" alt="Emily Jusuf"></img>
+                            <h3 className="team-name">Emily Jusuf</h3>
+                            <h4 className="team-title">
+                                
+                            </h4>
+                            <p className="team-desc" id="team-desc">
+                                Symbolic Systems, B.S.
+                                <br />Comparative Literature, B.A.
+                            </p>
+                            <p className="team-nav">
+                                <a href="https://www.linkedin.com/in/ejusuf/">LinkedIn</a>
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/aditi-gupta.jpg?raw=true" alt="Aditi Gupta"></img>
+                            <h3 className="team-name">Aditi Gupta</h3>
+                            <h4 className="team-title">
+                                
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.linkedin.com/in/aditi-gupta-72b8261a5/">LinkedIn</a>
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/aidan-levin.jpg?raw=true" alt="Aidan Levin"></img>
+                            <h3 className="team-name">Aidan Levin</h3>
+                            <h4 className="team-title">
+                                
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                
+                            </div>
+                            <p className="team-nav">
+                                
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/agata-kelman.jpg?raw=true" alt="Agata Kelman"></img>
+                            <h3 className="team-name">Agata Kelman</h3>
+                            <h4 className="team-title">
+                                
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                Biopsychology, B.S., UC Davis
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.agataemiliakelman.com/">Website</a>
+                                <a href="https://www.linkedin.com/in/agata-emilia-kelman-b49988103/">LinkedIn</a>
+                            </p>                         
+                        </Col>
+                    </Row> 
+                    <Row>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/candace-hagey.jpeg?raw=true" alt="Candace Hagey"></img>
+                            <h3 className="team-name">Candace Hagey</h3>
+                            <h4 className="team-title">
+                                Senior Clinical Trial Coordinator at Alector
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                Neuroscience and Human Biology & Society, with a Concentration in Bioethics/Public Science Policy, B.S., UCLA
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.linkedin.com/in/candace-hagey/">LinkedIn</a>
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/joshua-chon.jpg?raw=true" alt="Alyssa Jackson"></img>
+                            <h3 className="team-name">Joshua Chon</h3>
+                            <h4 className="team-title">
+                                
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                Psychology, B.S., Santa Clara University
+                            </div>
+                            <p className="team-nav">
+                                
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/akansha-shrivastava.jpg?raw=true" alt="Akanksha Shrivastava"></img>
+                            <h3 className="team-name">Akanksha Shrivastava</h3>
+                            <h4 className="team-title">
+                                Design Researcher - Tech at Walmart
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                Human Computer Interaction, Master's, UMD College Park
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.linkedin.com/in/akanksha1811/">LinkedIn</a>
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/yi-hsuan-wu.jpg?raw=true" alt="Yi-Hsuan Wu"></img>
+                            <h3 className="team-name">Yi-Hsuan Wu</h3>
+                            <h4 className="team-title">
+                                UX Designer/Researcher at Fuzz Interactive
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                Industrial Health, PhD, UMich School of Public Health
+                            </div>
+                            <p className="team-nav">
+                                
+                                <a href="https://www.linkedin.com/in/yihsuanwu/">LinkedIn</a>
+                                
+                            </p>                         
+                        </Col>
+                    </Row> 
+                    <Row>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/eli-rice.png?raw=true" alt="Eli Rice"></img>
+                            <h3 className="team-name">Eli Rice</h3>
+                            <h4 className="team-title">
+                                Clinical Research Coordinator at Stanford University School of Medicine
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                Psychology, B.A., Wake Forest University
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.linkedin.com/in/eli-rice-402929166/">LinkedIn</a>
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="/" alt="Sae Du"></img>
+                            <h3 className="team-name">Sae Du</h3>
+                            <h4 className="team-title">
+                                
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                
+                            </div>
+                            <p className="team-nav">
+                                
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/anna-speder.png?raw=true" alt="Anna Speder"></img>
+                            <h3 className="team-name">Anna Speder</h3>
+                            <h4 className="team-title">
+                                
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                Psychology, B.A., SFSU
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.linkedin.com/in/anna-speder-334a54172/">LinkedIn</a>
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/satvir-basran.png?raw=true" alt="Satvir Basran"></img>
+                            <h3 className="team-name">Satvir Basran</h3>
+                            <h4 className="team-title">
+                                
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                Political Science / Business Administrative Stuies, Marketing, Bachelor's, UC Riverside
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.linkedin.com/in/satvir-basran-96021111a/">LinkedIn</a>
+                                
+                            </p>                         
+                        </Col>
+                    </Row> 
+                    <Row>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/eman-magzoub.png?raw=true" alt="Eman Magzoub"></img>
+                            <h3 className="team-name">Eman Magzoub</h3>
+                            <h4 className="team-title">
+                                
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                Psychology, B.A., UCLA
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.linkedin.com/in/alyssa-riah-jackson/">LinkedIn</a>
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/elaheh-salehi.jpeg?raw=true" alt="Elaheh Salehi"></img>
+                            <h3 className="team-name">Elaheh Salehi</h3>
+                            <h4 className="team-title">
+                                
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                Psychology, B.A., Sonoma State University
+                            </div>
+                            <p className="team-nav">
+                                
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/talia-regenstein.jpg?raw=true" alt="Talia Regenstein"></img>
+                            <h3 className="team-name">Talia Regenstein</h3>
+                            <h4 className="team-title">
+                                Market Research Associate at Guidepoint
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                Psychology, B.A., Bates College
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.linkedin.com/in/talia-regenstein-960b13132/">LinkedIn</a>
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://media-exp1.licdn.com/dms/image/C5603AQGHcpIBVsK20A/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=02_V5S8aaEfRIB0lqiTMMPh0RupS8aQn2g9d_V4PImo" alt="Ben Voogd"></img>
+                            <h3 className="team-name">Benjamin Voogd</h3>
+                            <h4 className="team-title">
+                                Behavior Technician at ACES
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.linkedin.com/in/benvoogd/">LinkedIn</a>
+                                
+                            </p>                         
+                        </Col>
+                    </Row>                                                             
                 </Container>
                               
         </Layout>
