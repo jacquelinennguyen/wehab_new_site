@@ -7,18 +7,28 @@
     margin-bottom: 0;
 }
 
-.team-desc {
+.team-nav {
     font-size: 12px;
     margin-bottom: 40px;
 }
 
-.team-desc a {
+.team-desc {
+    margin-top: 5px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#team-desc {
+    font-size: 13px;
+}
+
+.team-nav a {
     text-decoration: none;
     color: darkgrey;
     font-size: 12px;
     margin-right: 4px;
 }
 
-.team-desc:hover a {
+.team-nav:hover a {
     text-decoration: none;
 }
