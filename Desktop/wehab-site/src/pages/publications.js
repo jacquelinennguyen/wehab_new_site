@@ -9,16 +9,18 @@ import Col from 'react-bootstrap/Col'
 const PublicationsPage = () => {
     return (
         <Layout>
-            <h1>Publications</h1>
-            <hr></hr>
-                <h2>Research Articles</h2>
+{/**Conferences**/}
+            <h2>Conferences</h2>
+            <p>
+                10 pages double column double-blinded peer-reviewed
+            </p>
             <Container>
                 <Row>
                     <Col md={10}>
                         <strong>Miri, P.</strong>, 
                         Jusuf, E., Margarit, H.,Flory, R., Uusberg, A., Isbister K., Marzullo K., Gross J. J. 
                         <a href="https://wehab.stanford.edu/wp-content/uploads/2020/03/CHI_2020.pdf"> PIV++: Evaluating a Personalizable, Inconspicuous Vibrotactile (PIV) Breathing Pacer for In-the-Moment Affect Regulation </a>
-                        <i>ACM Transactions on Computer-Human Interaction (CHI);</i>
+                        <i>ACM Transactions on Computer-Human Interaction (CHI) 2020</i>. Best Paper Honorable Mention Award (Top 5%)
                         <ul class="article-nav">
                             <li>
                                 <a href="https://wehab.stanford.edu/wp-content/uploads/2020/03/Sup_CHI_2020.pdf">Q&A</a>
@@ -35,6 +37,9 @@ const PublicationsPage = () => {
                             <li>
                                 <a href="https://www.youtube.com/watch?v=esvNkZXEimE">Video</a>
                             </li>
+                            <li>
+                            <a href="https://wehab.stanford.edu/wp-content/uploads/2020/03/CHI_2020.pdf">PDF</a>
+                            </li>
                         </ul>
                     </Col>
                     <Col md={2}>
@@ -49,6 +54,10 @@ const PublicationsPage = () => {
                         <a href="https://wehab.stanford.edu/wp-content/uploads/2019/08/ACII2019_miri_2019_shortV-1.pdf"> Affect regulation using technology: Lessons learned by taking a multidisciplinary perspective.
                         </a> 
                         <i> 8th International Conference on. Affective Computing & Intelligent Interaction (ACII);</i>
+                        <ul class="article-nav">
+                            <a href="https://wehab.stanford.edu/wp-content/uploads/2019/08/ACII2019_miri_2019_shortV-1.pdf">PDF
+                            </a>
+                        </ul>
                     </Col>
                     <Col></Col>
                 </Row>
@@ -62,6 +71,9 @@ const PublicationsPage = () => {
                         <ul class="article-nav">
                                 <li>
                                     <a href="https://www.youtube.com/watch?v=c1ezpVQLjkw">Video</a>
+                                </li>
+                                <li>
+                                    <a href="https://wehab.stanford.edu/wp-content/uploads/2020/04/TOCHI19_PIV_revised_round3.pdf">PDF</a> 
                                 </li>
                         </ul>
                     </Col>
@@ -77,7 +89,7 @@ const PublicationsPage = () => {
                         <ul class="article-nav">
                             <li>
                                 <a href="http://mentalhealth.media.mit.edu/wp-content/uploads/sites/15/2017/05/CMH_2017_paper_10.pdf">
-                                    Full Version
+                                    PDF
                                 </a>
                             </li>
                         </ul>
@@ -91,49 +103,72 @@ const PublicationsPage = () => {
                         Uusberg, A., Culbertson, H., Flory, R., Uusberg, H., Gross, J. J., … & Isbister, K. (2018). 
                         <a href="https://par.nsf.gov/servlets/purl/10092339"> Emotion regulation in the wild: Introducing WEHAB system architecture. </a>
                         In <i>Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems</i> (p. LBW021). ACM. doi:10.1145/3170427.3188495                    
+                        <ul class="article-nav">
+                            <a href="https://par.nsf.gov/servlets/purl/10092339">
+                                PDF
+                            </a>
+                        </ul>
                     </Col>
                     <Col></Col>
                 </Row>
-            </Container>
+
             <hr />
-            <h2>
-                Conferences
-            </h2>
-            <p>
-                10 pages double column peer-reviewed
-            </p>
-            <Container>
+
                 <Row>
                     <Col md={10}>
-                        <strong>Miri, P.</strong>, Jusuf, E., Uusberg, A., Margarit, H., Isbister K., Marzullo K., Gross J. J. <a href="https://doi.org/10.1145/3313831.3376757">“PIV++: Evaluating a Personalizable, Inconspicuous Vibrotactile (PIV) Breathing Pacer for In-the-Moment Affect Regulation"</a>, in <i>ACM Transactions on Computer-Human Interaction (CHI) 2020.</i>  Best Paper Honorable Mention Award (Top 5%)
-                    </Col>
-                </Row>
-                <hr />
-                <Row>
-                    <Col md={10}>
-                        <strong>Miri, P.</strong>, Flory, R., Uusberg, A., Uusberg, H., Gross, J., and Isbister, K., <a href="http://mentalhealth.media.mit.edu/wp-content/uploads/sites/15/2017/05/CMH_2017_paper_10.pdf">“HapLand: A Scalable Robust Emotion Regulation Haptic System Testbed"
-                        </a>, in <i>Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems, Denver CO, USA, May 2017</i>
-                    </Col>
-                </Row>
-                <hr />
-                <Row>
-                    <Col md={10}>
-                        Billman, D., Schreckenghost, D., and <strong>Miri, P.</strong>, <a href="https://www.hfes.org/web/HFESmeetings/upcoming.html">“Assessment of Alternative Interfaces for Manual Commanding of Spacecraft Systems Compatibility with Flexible Allocation Policies"</a>
+                        Billman, D., Schreckenghost, D., and <strong>Miri, P.</strong>, <a href="https://journals.sagepub.com/doi/pdf/10.1177/1541931214581075">“Assessment of Alternative Interfaces for Manual Commanding of Spacecraft Systems Compatibility with Flexible Allocation Policies"</a>
                         , in <i>Proceedings of the Human Factors and Ergonomics</i>, October 2014
+                        <ul class="article-nav">
+                            <a href="https://journals.sagepub.com/doi/pdf/10.1177/1541931214581075">
+                                PDF
+                            </a>
+                        </ul>
                     </Col>
                 </Row>
                 <hr />
                 <Row>
                     <Col md={10}>
                         Radhika Niranjan Mysore, Andreas Pamboris, Nathan Farrington, Nelson Huang, <strong>Miri, P.</strong>, Sivasankar Radhakrishnan, Vikram Subramanya, and Amin Vahdat, <a href="http://ccr.sigcomm.org/online/files/p39.pdf">“PortLand: A Scalable Fault-Tolerant Layer 2 Data Center Network Fabric,"</a> in <i>Proceedings of the ACM SIGCOMM Conference</i>, August 2009
+                        <ul class="article-nav">
+                            <a href="http://ccr.sigcomm.org/online/files/p39.pdf">
+                                PDF
+                            </a>
+                        </ul>
                     </Col>
                 </Row>
                 <hr />
                 <Row>
                     <Col md={10}>
                         <strong>Miri, P.</strong>, Ghavami, B., Najibi, M. and Pedram, H., <a href="https://pdfs.semanticscholar.org/5657/0f5c00d90416759bf565e7c553600789d759.pdf">"Exploring an AES Crypto-processor Design Using a Secure Asynchronous Toolset."</a> in <i>Design Automation Conference</i> (IEEE Cat 2008)
+                        <ul class="article-nav">
+                            <a href="https://www.semanticscholar.org/paper/Exploring-an-AES-Crypto-processor-Design-Using-a-Miri-Ghavami/56570f5c00d90416759bf565e7c553600789d759?p2df">
+                                PDF
+                            </a>
+                        </ul>
                     </Col>
-                </Row> 
+                </Row>
+                <hr />
+                <Row>
+                    <Col md={10}>
+                        Ball, T., <strong>Miri, P.</strong>, and Leanne Williams. <a href="https://clinicaltrials.gov/ct2/show/NCT03465137">"Using the Neuroscience of Fear Extinction for Anxiety Reduction: Study Design, Aims, and Preliminary Data."</a> In <i>Neuropsychopharmacology</i>, vol. 44, no. SUPPL 1, pp. 267-268. 2019.
+                    </Col>
+                </Row>
+            </Container>
+            <hr />
+{/**Journal */}
+            <h2>Journal</h2>
+            <Container>
+                <Row>
+                    <Col md={10}>
+                        <strong>Miri, P.</strong>, Flory, R., Uusberg, A., Culbertson, H., Harvey, R., Keman, A., Peper, E., Gross, J. J., Marzullo, M. 
+                        <a href="https://doi.org/10.1145/3365107">"PIV: Placement, pattern, and personalization of an inconspicuous vibrotactile breathing pacer."</a>, in <i>ACM Transactions on Computer-Human Interaction (TOCHI) 2019</i>
+                        <ul class="article-nav">
+                            <a href="https://doi.org/10.1145/3365107">
+                                PDF
+                            </a>
+                        </ul>
+                    </Col>               
+             </Row>
             </Container>
             <hr />
             <h2>
@@ -152,7 +187,7 @@ const PublicationsPage = () => {
                     </Col>
                 </Row>
             </Container>
-
+{/**Workshop and Extended Abstracts */}
             <hr />
             <h2>Workshop and Extended Abstracts</h2>
             <Container>
