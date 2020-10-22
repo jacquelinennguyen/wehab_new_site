@@ -217,16 +217,16 @@ const TeamPage = () => {
                 <Container>
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="/" alt="Aman Malhotra"></img>
-                            <h3 className="team-name">Name</h3>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/aman-malhotra.jpeg?raw=true" alt="Aman Malhotra"></img>
+                            <h3 className="team-name">Aman Malhotra</h3>
                             <h4 className="team-title">
-                                Title
+                                Undergraduate Researcher
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                email
+                                
                             </div>
                             <p className="team-nav">
-                                <a href="/">Website</a>
+                                <a href="https://www.linkedin.com/in/aman-malhotra-024417153/">LinkedIn</a>
                                 
                             </p>                         
                         </Col>
@@ -245,17 +245,17 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="/" alt="Name"></img>
-                            <h3 className="team-name">Name</h3>
+                            <img class="reframe" src="https://media-exp1.licdn.com/dms/image/C4D03AQHIyiGHW_4D8g/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=9KIkzTrx5Ylayy2JcSevVogjev66cMFlf1nIQOo6NpM" alt="Jacqueline Nguyen"></img>
+                            <h3 className="team-name">Jacqueline Nguyen</h3>
                             <h4 className="team-title">
-                                Title
+                                Postgraduate Researcher
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                email
+                                beuyenj@g.ucla.edu
                             </div>
                             <p className="team-nav">
-                                <a href="/">Website</a>
-                                
+                                <a href="https://www.linkedin.com/in/jacqueline-n-928802b7/">LinkedIn</a>
+                                <a href="https://github.com/jacquelinennguyen">GitHub</a>
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
@@ -279,18 +279,17 @@ const TeamPage = () => {
                 <Container>
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://media-exp1.licdn.com/dms/image/C5603AQHJzCp8P19Qeg/profile-displayphoto-shrink_800_800/0?e=1608768000&v=beta&t=zjWkW91gY0-Qm6DvQGd26jizbGuxKNUnlHD7-bbnDHo" alt="Pardis Miri"></img>
-                            <h3 className="team-name">Pardis "Paris" Miri</h3>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/anusha-kuchibholta.png?raw=true" alt="Anusha Kuchibholta"></img>
+                            <h3 className="team-name">Anusha Kuchibholta</h3>
                             <h4 className="team-title">
-                                Postdoctoral Research Fellow
+                                
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                parism@stanford.edu
+                                
                             </div>
                             <p className="team-nav">
-                                <a href="https://paris.sites.ucsc.edu/">Website</a>
-                                <a href="https://www.linkedin.com/in/pardis-paris-miri-b5531216/">Linkedin</a>
-                                <a href="https://github.com/paris007">GitHub</a>
+                                <a href="https://www.linkedin.com/in/anusha-kuchibhotla-418294172/">LinkedIn</a>
+                                
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
