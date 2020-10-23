@@ -134,6 +134,34 @@ const TeamPage = () => {
                                 
                             </p>                         
                         </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://files.slack.com/files-pri/T7SAV7LAD-F01D4U9MJJH/image.png" alt="David Schneider"></img>
+                            <h3 className="team-name">David Schneider</h3>
+                            <h4 className="team-title">
+                                Professor of Microbiology and Immunology
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                david.schneider@stanford.edu
+                            </div>
+                            <p className="team-nav">
+                                <a href="http://schneiderlab.stanford.edu/">Website</a>
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://files.slack.com/files-pri/T7SAV7LAD-F01D81EB0AW/image.png" alt="Marlo Kohn"></img>
+                            <h3 className="team-name">Marlo Kohn</h3>
+                            <h4 className="team-title">
+                                Associate Director of the Product Realization Lab
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://extreme.stanford.edu/team/marlo-kohn/">Website</a>
+                                
+                            </p>                         
+                        </Col>
                     </Row>
                 </Container>
                 <h2>Senior Lab Members</h2>
@@ -260,8 +288,15 @@ const TeamPage = () => {
                                 <a href="https://github.com/jacquelinennguyen">GitHub</a>
                             </p>                         
                         </Col>
-                        <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/1.png?raw=true" alt="Shree Reddy"></img>
+                        
+                    </Row>
+                </Container>
+                                
+                <h2>Former Research Assistants</h2>
+                <Container>
+                    <Row>
+                    <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/shree-reddy.jpeg?raw=true" alt="Shree Reddy"></img>
                             <h3 className="team-name">Shree Reddy</h3>
                             <h4 className="team-title">
                                 
@@ -274,12 +309,6 @@ const TeamPage = () => {
                                 
                             </p>                         
                         </Col>
-                    </Row>
-                </Container>
-                                
-                <h2>Former Research Assistants</h2>
-                <Container>
-                    <Row>
                         <Col md={3} sm={6} xs={12}>
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/anusha-kuchibholta.png?raw=true" alt="Anusha Kuchibholta"></img>
                             <h3 className="team-name">Anusha Kuchibholta</h3>
@@ -322,7 +351,10 @@ const TeamPage = () => {
                                 
                             </p>                         
                         </Col>
-                        <Col md={3} sm={6} xs={12}>
+                        
+                    </Row> 
+                    <Row>
+                    <Col md={3} sm={6} xs={12}>
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/alyssa-jackson.jpg?raw=true" alt="Alyssa Jackson"></img>
                             <h3 className="team-name">Alyssa Jackson</h3>
                             <h4 className="team-title">
@@ -336,8 +368,6 @@ const TeamPage = () => {
                                 
                             </p>                         
                         </Col>
-                    </Row> 
-                    <Row>
                         <Col md={3} sm={6} xs={12}>
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/emily-jusuf.jpeg?raw=true" alt="Emily Jusuf"></img>
                             <h3 className="team-name">Emily Jusuf</h3>
@@ -381,6 +411,9 @@ const TeamPage = () => {
                                 
                             </p>                         
                         </Col>
+                        
+                    </Row> 
+                    <Row>
                         <Col md={3} sm={6} xs={12}>
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/agata-kelman.jpg?raw=true" alt="Agata Kelman"></img>
                             <h3 className="team-name">Agata Kelman</h3>
@@ -395,8 +428,6 @@ const TeamPage = () => {
                                 <a href="https://www.linkedin.com/in/agata-emilia-kelman-b49988103/">LinkedIn</a>
                             </p>                         
                         </Col>
-                    </Row> 
-                    <Row>
                         <Col md={3} sm={6} xs={12}>
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/candace-hagey.jpeg?raw=true" alt="Candace Hagey"></img>
                             <h3 className="team-name">Candace Hagey</h3>
@@ -439,6 +470,9 @@ const TeamPage = () => {
                                 
                             </p>                         
                         </Col>
+                        
+                    </Row> 
+                    <Row>
                         <Col md={3} sm={6} xs={12}>
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/yi-hsuan-wu.jpg?raw=true" alt="Yi-Hsuan Wu"></img>
                             <h3 className="team-name">Yi-Hsuan Wu</h3>
@@ -454,8 +488,6 @@ const TeamPage = () => {
                                 
                             </p>                         
                         </Col>
-                    </Row> 
-                    <Row>
                         <Col md={3} sm={6} xs={12}>
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/eli-rice.png?raw=true" alt="Eli Rice"></img>
                             <h3 className="team-name">Eli Rice</h3>
@@ -498,6 +530,9 @@ const TeamPage = () => {
                                 
                             </p>                         
                         </Col>
+                        
+                    </Row> 
+                    <Row>
                         <Col md={3} sm={6} xs={12}>
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/satvir-basran.png?raw=true" alt="Satvir Basran"></img>
                             <h3 className="team-name">Satvir Basran</h3>
@@ -512,8 +547,6 @@ const TeamPage = () => {
                                 
                             </p>                         
                         </Col>
-                    </Row> 
-                    <Row>
                         <Col md={3} sm={6} xs={12}>
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/eman-magzoub.png?raw=true" alt="Eman Magzoub"></img>
                             <h3 className="team-name">Eman Magzoub</h3>
