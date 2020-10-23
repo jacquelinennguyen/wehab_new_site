@@ -14,14 +14,14 @@ const PublicationsPage = () => {
             <p>
                 10 pages double column double-blinded peer-reviewed
             </p>
-            <Container>
+            <Container className="publications">
                 <Row>
                     <Col md={10}>
                         <strong>Miri, P.</strong>, 
                         Jusuf, E., Margarit, H.,Flory, R., Uusberg, A., Isbister K., Marzullo K., Gross J. J. 
                         <a href="https://wehab.stanford.edu/wp-content/uploads/2020/03/CHI_2020.pdf"> PIV++: Evaluating a Personalizable, Inconspicuous Vibrotactile (PIV) Breathing Pacer for In-the-Moment Affect Regulation </a>
                         <i>ACM Transactions on Computer-Human Interaction (CHI) 2020</i>. Best Paper Honorable Mention Award (Top 5%)
-                        <ul class="article-nav">
+                        <ul class="article-nav" id="article-nav">
                             <li>
                                 <a href="https://wehab.stanford.edu/wp-content/uploads/2020/03/Sup_CHI_2020.pdf">Q&A</a>
                             </li>
@@ -157,7 +157,7 @@ const PublicationsPage = () => {
             <hr />
 {/**Journal */}
             <h2>Journal</h2>
-            <Container>
+            <Container className="publications">
                 <Row>
                     <Col md={10}>
                         <strong>Miri, P.</strong>, Flory, R., Uusberg, A., Culbertson, H., Harvey, R., Keman, A., Peper, E., Gross, J. J., Marzullo, M. 
@@ -174,7 +174,7 @@ const PublicationsPage = () => {
             <h2>
                 Patents
             </h2>
-            <Container>
+            <Container className="publications">
                 <Row>
                     <Col md={10}>
                         <strong>Miri, P.</strong>, Flory, R., Marzullo, K., and Gross, J., Stanford University, 2020. Personalizable, Inconspicuous Vibro- tactile Breathing Pacer. Patent date Filed Dec 1, 2019 by The Board of Trustees of the Leland Stanford Junior University, Stanford, CA Power of Attorney: Isaac Fine–74274
@@ -190,7 +190,7 @@ const PublicationsPage = () => {
 {/**Workshop and Extended Abstracts */}
             <hr />
             <h2>Workshop and Extended Abstracts</h2>
-            <Container>
+            <Container className="publications">
                 <Row>
                     <Col md={10}>
                         <strong>Miri, P.</strong>, Jusuf, E., Gross J. J., Isbister K., Marzullo K. (in press). <a href="https://wehab.stanford.edu/wp-content/uploads/2019/08/ACII2019_miri_2019_shortV-1.pdf">"Affect regulation using technology: Lessons learned by taking a multidisciplinary perspective."</a>, in <i>8th International Conference on Affective Computing and Intelligent Interaction (ACII) 2019</i>

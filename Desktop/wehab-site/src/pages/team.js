@@ -140,7 +140,7 @@ const TeamPage = () => {
                 <Container>
                     <Row>
                     <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://media-exp1.licdn.com/dms/image/C5603AQHJzCp8P19Qeg/profile-displayphoto-shrink_800_800/0?e=1608768000&v=beta&t=zjWkW91gY0-Qm6DvQGd26jizbGuxKNUnlHD7-bbnDHo" alt="Pardis Miri"></img>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/PardisMiri.jpg?raw=true" alt="Pardis Miri"></img>
                             <h3 className="team-name">Pardis "Paris" Miri</h3>
                             <h4 className="team-title">
                                 Postdoctoral Research Fellow, Lab Director
@@ -231,16 +231,16 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/1.png?raw=true" alt="Name"></img>
-                            <h3 className="team-name">Name</h3>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/mehul-arora.jpeg?raw=true" alt="Mehul Arora"></img>
+                            <h3 className="team-name">Mehul Arora</h3>
                             <h4 className="team-title">
-                                Title
+                                Undergraduate Researcher
                             </h4>
                             <div className="team-desc" id="team-desc">
                                 email
                             </div>
                             <p className="team-nav">
-                                <a href="/">Website</a>
+                                <a href="https://www.linkedin.com/in/mehul-arora/">LinkedIn</a>
                                 
                             </p>                         
                         </Col>
@@ -523,7 +523,6 @@ const TeamPage = () => {
                                 Psychology, B.A., UCLA
                             </div>
                             <p className="team-nav">
-                                <a href="https://www.linkedin.com/in/alyssa-riah-jackson/">LinkedIn</a>
                                 
                             </p>                         
                         </Col>

@@ -12,7 +12,16 @@
     margin-right: 10px;
 }
 
+
 .hght-10 {
     height: auto;
     width: 100%;
+}
+
+.publications a{
+    color: gray;
+}
+
+.publications a:hover {
+    text-decoration-style: none;
 }

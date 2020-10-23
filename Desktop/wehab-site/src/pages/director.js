@@ -35,7 +35,7 @@ const DirectorPage = () => {
                         </ul>
                     </Col>
                     <Col md={4}>
-                        <img class="reframe" src="https://media-exp1.licdn.com/dms/image/C5603AQHJzCp8P19Qeg/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=cHoiB3ybgcahWBEOdVLq1Z4Xq9Lg-AmuPUhi4aZou_4" alt="Pardis Miri"></img>
+                        <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/PardisMiri.jpg?raw=true" alt="Pardis Miri"></img>
                     </Col>
                 </Row>
             </Container>
