@@ -223,7 +223,7 @@ const TeamPage = () => {
                                 Undergraduate Researcher
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                
+                                Mathematical and Computational Science, B.S. candidate
                             </div>
                             <p className="team-nav">
                                 <a href="https://www.linkedin.com/in/aman-malhotra-024417153/">LinkedIn</a>
@@ -237,7 +237,8 @@ const TeamPage = () => {
                                 Undergraduate Researcher
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                email
+                                Computer Science, B.S. candidate
+                                mehularora@stanford.edu
                             </div>
                             <p className="team-nav">
                                 <a href="https://www.linkedin.com/in/mehul-arora/">LinkedIn</a>
@@ -263,13 +264,13 @@ const TeamPage = () => {
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/1.png?raw=true" alt="Shree Reddy"></img>
                             <h3 className="team-name">Shree Reddy</h3>
                             <h4 className="team-title">
-                                Researcher
+                                
                             </h4>
                             <div className="team-desc" id="team-desc">
                                 
                             </div>
                             <p className="team-nav">
-                                <a href="/">Website</a>
+                                <a href="https://www.linkedin.com/in/shree-reddy-7221421b2/">LinkedIn</a>
                                 
                             </p>                         
                         </Col>
