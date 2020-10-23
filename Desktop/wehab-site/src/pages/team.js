@@ -324,7 +324,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/lindsay-jamieson.png?raw=true" alt="Lindsay Jamieson"></img>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/lindsay-jamieson.jpeg?raw=true" alt="Lindsay Jamieson"></img>
                             <h3 className="team-name">Lindsay Jamieson</h3>
                             <h4 className="team-title">
                                 
@@ -575,7 +575,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/talia-regenstein.jpg?raw=true" alt="Talia Regenstein"></img>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/talia-regenstein.jpeg?raw=true" alt="Talia Regenstein"></img>
                             <h3 className="team-name">Talia Regenstein</h3>
                             <h4 className="team-title">
                                 Market Research Associate at Guidepoint
