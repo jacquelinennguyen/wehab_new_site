@@ -135,7 +135,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://files.slack.com/files-pri/T7SAV7LAD-F01D4U9MJJH/image.png" alt="David Schneider"></img>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/david-schneider.jpg?raw=true" alt="David Schneider"></img>
                             <h3 className="team-name">David Schneider</h3>
                             <h4 className="team-title">
                                 Professor of Microbiology and Immunology
@@ -149,13 +149,13 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://files.slack.com/files-pri/T7SAV7LAD-F01D81EB0AW/image.png" alt="Marlo Kohn"></img>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/marlo-kohn.jpg?raw=true" alt="Marlo Kohn"></img>
                             <h3 className="team-name">Marlo Kohn</h3>
                             <h4 className="team-title">
                                 Associate Director of the Product Realization Lab
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                
+                                marlod@stanford.edu
                             </div>
                             <p className="team-nav">
                                 <a href="https://extreme.stanford.edu/team/marlo-kohn/">Website</a>
@@ -200,13 +200,13 @@ const TeamPage = () => {
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/andero-uusberg.jpg?raw=true" alt="Andero Uusberg"></img>
                             <h3 className="team-name">Andero Uusberg</h3>
                             <h4 className="team-title">
-                                Postdoctoral Research Fellow
+                                Senior Research Fellow, University of Tartu
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                andero@stanford.edu
+                                andero.uusberg@ut.ee
                             </div>
                             <p className="team-nav">
-                                
+                                <a href="https://www.ut.ee/en/kontakt/psuhholoogia-instituut">Website</a>
                                 
                             </p>                         
                         </Col>
@@ -214,10 +214,10 @@ const TeamPage = () => {
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/horia-margarit.jpg?raw=true" alt="Horia Margarit"></img>
                             <h3 className="team-name">Horia Margarit</h3>
                             <h4 className="team-title">
-                                Postgraduate Researcher
+                                Stanford Postgraduate Researcher
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                
+                                horia@alumni.stanford.edu
                             </div>
                             <p className="team-nav">
                                 
@@ -387,7 +387,7 @@ const TeamPage = () => {
                             <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/aditi-gupta.jpg?raw=true" alt="Aditi Gupta"></img>
                             <h3 className="team-name">Aditi Gupta</h3>
                             <h4 className="team-title">
-                                
+                                Undergraduate Researcher at Dartmouth
                             </h4>
                             <div className="team-desc" id="team-desc">
                                 
