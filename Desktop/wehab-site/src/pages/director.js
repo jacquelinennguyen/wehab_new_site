@@ -9,7 +9,6 @@ import Col from 'react-bootstrap/Col'
 const DirectorPage = () => {
     return (
         <Layout>
-            <h1>Director</h1>
             <Container>
                 <Row>
                     <Col md={8}>
@@ -36,7 +35,7 @@ const DirectorPage = () => {
                         </ul>
                     </Col>
                     <Col md={4}>
-                        <img class="reframe" src="https://wehab.stanford.edu/wp-content/uploads/2018/10/pardis_miri-640x640.png"></img>
+                        <img class="reframe" src="https://media-exp1.licdn.com/dms/image/C5603AQHJzCp8P19Qeg/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=cHoiB3ybgcahWBEOdVLq1Z4Xq9Lg-AmuPUhi4aZou_4" alt="Pardis Miri"></img>
                     </Col>
                 </Row>
             </Container>

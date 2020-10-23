@@ -199,8 +199,8 @@ const TeamPage = () => {
                     </Row>
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/robert-flory.jpg?raw=true" alt="Robert Floy"></img>
-                            <h3 className="team-name">Robert Floy</h3>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/robert-flory.jpg?raw=true" alt="Robert Flory"></img>
+                            <h3 className="team-name">Robert Flory</h3>
                             <h4 className="team-title">
                                 Researcher
                             </h4>
@@ -208,7 +208,7 @@ const TeamPage = () => {
                                 
                             </div>
                             <p className="team-nav">
-                                
+                                <a href="https://www.linkedin.com/in/robert-flory-62937293/">LinkedIn</a>
                             </p>                         
                         </Col>                        
                     </Row>

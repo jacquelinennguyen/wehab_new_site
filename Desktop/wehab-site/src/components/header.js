@@ -4,9 +4,40 @@ import HeaderStyles from '../styles/header.scss'
 import Button from 'react-bootstrap/Button'
 import Collapse from 'react-bootstrap/Collapse'
 
+/* Toggle between showing and hiding the navigation menu links when the user clicks on the hamburger menu / bar icon */
+/*function myFunction() {
+    var x = document.getElementById("collapse");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }
+*/
+function test() {
+    document.getElementById("test").innerHTML = "Hello World";
+}
+
 const Header = () => {
     return (
         <header class="header">
+            <button className="navbar-toggle" onClick={ () => {
+                var x = document.getElementById("collapse");
+                if (x.style.display === "block") {
+                  x.style.display = "none";
+                } else {
+                  x.style.display = "block";
+                }
+            }}>                
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            {/*<button
+                onClick={() => { document.getElementById("test").innerHTML = "Hello World";}}>
+                button  
+            </button>
+            <p id="test"></p>*/}
             <div>
                 <Link className="title" to='/'>
                 <h1>
@@ -14,27 +45,22 @@ const Header = () => {
                 </h1>
                 </Link>
             </div>
-            
-            <button type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="true" aria-controls="navbar">
-                Menu
-            </button>
-
-            <nav id="navbar" aria-expanded="true" class="navbar-collapse">
+            <nav id="collapse" class="navbar-collapse">
                 <ul className="nav-list nav-list-right">
                     <li>
-                        <Link className="link" to='/publications'>Publications</Link> 
+                        <Link className="link active" to='/publications'>Publications</Link> 
                     </li>                    
                     <li>
-                        <Link className="link" to='/research'>Research</Link>
+                        <Link className="link active" to='/research'>Research</Link>
                     </li>
                     <li>
-                        <Link className="link" to='/team'>Team</Link>
+                        <Link className="link active" to='/team'>Team</Link>
                     </li>
                     <li>
-                        <Link className="link" to='/director'>Director</Link>
+                        <Link className="link active" to='/director'>Director</Link>
                     </li>
                     <li>
-                        <Link className="link" to='/contact'>Contact</Link>
+                        <Link className="link active" to='/contact'>Contact</Link>
                     </li>
                 </ul>
             </nav>
