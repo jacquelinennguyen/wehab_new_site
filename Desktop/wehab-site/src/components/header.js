@@ -38,13 +38,11 @@ const Header = () => {
                 button  
             </button>
             <p id="test"></p>*/}
-            <div>
-                <Link className="title" to='/'>
-                <h1>
-                    Wehab Lab
-                </h1>
+            
+                <Link to='/'>
+                    <img className="logo" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/3.png?raw=true"></img>
                 </Link>
-            </div>
+            
             <nav id="collapse" class="navbar-collapse">
                 <ul className="nav-list nav-list-right">
                     <li>

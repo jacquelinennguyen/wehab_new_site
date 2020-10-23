@@ -231,7 +231,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="/" alt="Name"></img>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/1.png?raw=true" alt="Name"></img>
                             <h3 className="team-name">Name</h3>
                             <h4 className="team-title">
                                 Title
@@ -260,7 +260,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="/" alt="Shree Reddy"></img>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/1.png?raw=true" alt="Shree Reddy"></img>
                             <h3 className="team-name">Shree Reddy</h3>
                             <h4 className="team-title">
                                 Researcher
@@ -470,7 +470,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="/" alt="Sae Du"></img>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/1.png?raw=true" alt="Sae Du"></img>
                             <h3 className="team-name">Sae Du</h3>
                             <h4 className="team-title">
                                 
