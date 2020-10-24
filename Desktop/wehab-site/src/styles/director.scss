@@ -1,13 +1,28 @@
 .dir-links {
     list-style: none;
-    display: flex;
-    margin-top: 30px;
+    display: block;
+    position: relative;
+    left: -20px;
+    text-align: center;
+}
+
+.dir-links>li {
+    margin-bottom: 20px;    
+    border: rgb(165, 95, 95) 0px solid;
+    background-color:#c7d1c5; 
+    border-radius: 5px;
+    padding: 15px 0px;
 }
 
 .dir-links a {
-    border: rgb(165, 95, 95) 0px solid;
-    padding: 15px 20px;
-    background-color: #c7d1c5;
-    border-radius: 5px;
+    width: 100%;
+    height: auto;
     color: white;
+}
+
+.dir-nav-link {
+    position: relative;
+    text-align: center;
+    margin: 15px 0px;
+    width: 100%;
 }

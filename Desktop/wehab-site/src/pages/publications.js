@@ -21,7 +21,7 @@ const PublicationsPage = () => {
                         Jusuf, E., Margarit, H.,Flory, R., Uusberg, A., Isbister K., Marzullo K., Gross J. J. 
                         <a href="https://wehab.stanford.edu/wp-content/uploads/2020/03/CHI_2020.pdf"> PIV++: Evaluating a Personalizable, Inconspicuous Vibrotactile (PIV) Breathing Pacer for In-the-Moment Affect Regulation </a>
                         <i>ACM Transactions on Computer-Human Interaction (CHI) 2020</i>. Best Paper Honorable Mention Award (Top 5%)
-                        <ul class="article-nav" id="article-nav">
+                        <ul class="article-nav">
                             <li>
                                 <a href="https://wehab.stanford.edu/wp-content/uploads/2020/03/Sup_CHI_2020.pdf">Q&A</a>
                             </li>
@@ -47,39 +47,7 @@ const PublicationsPage = () => {
                     </Col>
                 </Row>
                 <hr></hr>
-                <Row>
-                    <Col md={10}>
-                        <strong>Miri, P.</strong>, 
-                        Jusuf, E., Gross J. J., Isbister K., Marzullo K. (in press). 
-                        <a href="https://wehab.stanford.edu/wp-content/uploads/2019/08/ACII2019_miri_2019_shortV-1.pdf"> Affect regulation using technology: Lessons learned by taking a multidisciplinary perspective.
-                        </a> 
-                        <i> 8th International Conference on. Affective Computing & Intelligent Interaction (ACII);</i>
-                        <ul class="article-nav">
-                            <a href="https://wehab.stanford.edu/wp-content/uploads/2019/08/ACII2019_miri_2019_shortV-1.pdf">PDF
-                            </a>
-                        </ul>
-                    </Col>
-                    <Col></Col>
-                </Row>
-                <hr></hr>
-                <Row>
-                    <Col md={10}>
-                        <strong>Miri, P.</strong>, 
-                        Flory, R., Uusberg, A., Culbertson, H., Harvey, R., Keman, A., Peper, E., Gross, J. J., Marzullo, M. (2019).  
-                        <a href="https://wehab.stanford.edu/wp-content/uploads/2020/04/TOCHI19_PIV_revised_round3.pdf"> PIV: Placement, pattern, and personalization of an inconspicuous vibrotactile breathing pacer. </a> 
-                        <i>ACM Transactions on Computer-Human Interaction (TOCHI).</i>
-                        <ul class="article-nav">
-                                <li>
-                                    <a href="https://www.youtube.com/watch?v=c1ezpVQLjkw">Video</a>
-                                </li>
-                                <li>
-                                    <a href="https://wehab.stanford.edu/wp-content/uploads/2020/04/TOCHI19_PIV_revised_round3.pdf">PDF</a> 
-                                </li>
-                        </ul>
-                    </Col>
-                    <Col></Col>
-                </Row>
-                <hr></hr>
+                
                 <Row>
                     <Col md={10}>
                         <strong>Miri, P.</strong>, 
@@ -156,19 +124,25 @@ const PublicationsPage = () => {
             </Container>
             <hr />
 {/**Journal */}
-            <h2>Journal</h2>
+            <h2>Journals</h2>
             <Container className="publications">
-                <Row>
+            <Row>
                     <Col md={10}>
-                        <strong>Miri, P.</strong>, Flory, R., Uusberg, A., Culbertson, H., Harvey, R., Keman, A., Peper, E., Gross, J. J., Marzullo, M. 
-                        <a href="https://doi.org/10.1145/3365107">"PIV: Placement, pattern, and personalization of an inconspicuous vibrotactile breathing pacer."</a>, in <i>ACM Transactions on Computer-Human Interaction (TOCHI) 2019</i>
+                        <strong>Miri, P.</strong>, 
+                        Flory, R., Uusberg, A., Culbertson, H., Harvey, R., Keman, A., Peper, E., Gross, J. J., Marzullo, M. (2019).  
+                        <a href="https://wehab.stanford.edu/wp-content/uploads/2020/04/TOCHI19_PIV_revised_round3.pdf"> PIV: Placement, pattern, and personalization of an inconspicuous vibrotactile breathing pacer. </a> 
+                        <i>ACM Transactions on Computer-Human Interaction (TOCHI).</i>
                         <ul class="article-nav">
-                            <a href="https://doi.org/10.1145/3365107">
-                                PDF
-                            </a>
+                                <li>
+                                    <a href="https://www.youtube.com/watch?v=c1ezpVQLjkw">Video</a>
+                                </li>
+                                <li>
+                                    <a href="https://wehab.stanford.edu/wp-content/uploads/2020/04/TOCHI19_PIV_revised_round3.pdf">PDF</a> 
+                                </li>
                         </ul>
-                    </Col>               
-             </Row>
+                    </Col>
+                    <Col></Col>
+                </Row>
             </Container>
             <hr />
             <h2>
@@ -194,6 +168,10 @@ const PublicationsPage = () => {
                 <Row>
                     <Col md={10}>
                         <strong>Miri, P.</strong>, Jusuf, E., Gross J. J., Isbister K., Marzullo K. (in press). <a href="https://wehab.stanford.edu/wp-content/uploads/2019/08/ACII2019_miri_2019_shortV-1.pdf">"Affect regulation using technology: Lessons learned by taking a multidisciplinary perspective."</a>, in <i>8th International Conference on Affective Computing and Intelligent Interaction (ACII) 2019</i>
+                        <ul class="article-nav">
+                            <a href="https://wehab.stanford.edu/wp-content/uploads/2019/08/ACII2019_miri_2019_shortV-1.pdf">PDF
+                            </a>
+                        </ul>
                     </Col>
                 </Row>
                 <hr />

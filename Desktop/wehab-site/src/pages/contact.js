@@ -12,8 +12,8 @@ const ContactPage = () => {
             If you have computer science, chemical engineering, mechanical
             engineering, electrical engineering, or psychology background, this lab is the right place for you. If you don’t
             have any of these backgrounds but you are eager to learn fast and to dedicate time, this is still the right lab
-            for you. We recommend contacting our former lab research assistants Emily Jusuf (ejusuf@stanford.edu)
-            to get a better perspective of our lab and see our team members page on wehab.stanford.edu website for
+            for you. We recommend contacting our former lab research assistants 
+            to get a better perspective of our lab and see our team members page on our <a href="/team">Team</a> page for
             more information. Work-study, volunteer, or course-credit are also available.
             </p>
             <p>
