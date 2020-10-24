@@ -1,5 +1,4 @@
 # Facilitating Affect Regulation in Youth with Autism Spectrum Disorder
-
 ## Pardis Miri, John Hegarty, James Gross, Keith Marzullo, Antonio Hardan, Lawrence Fung, Jennifer Phillips, Anusha Kuchibholta, Shree Reddy, Aman Malhotra, Stephanie Hu, Mehul Arora, Ishan Goyal 
 
 <div align="center">

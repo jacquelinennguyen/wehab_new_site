@@ -65,22 +65,6 @@ const PublicationsPage = () => {
                     <Col></Col>
                 </Row>
                 <hr></hr>
-                <Row>
-                    <Col md={10}>
-                        <strong>Miri, P.</strong>, 
-                        Uusberg, A., Culbertson, H., Flory, R., Uusberg, H., Gross, J. J., … & Isbister, K. (2018). 
-                        <a href="https://par.nsf.gov/servlets/purl/10092339"> Emotion regulation in the wild: Introducing WEHAB system architecture. </a>
-                        In <i>Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems</i> (p. LBW021). ACM. doi:10.1145/3170427.3188495                    
-                        <ul class="article-nav">
-                            <a href="https://par.nsf.gov/servlets/purl/10092339">
-                                PDF
-                            </a>
-                        </ul>
-                    </Col>
-                    <Col></Col>
-                </Row>
-
-            <hr />
 
                 <Row>
                     <Col md={10}>
@@ -116,11 +100,7 @@ const PublicationsPage = () => {
                     </Col>
                 </Row>
                 <hr />
-                <Row>
-                    <Col md={10}>
-                        Ball, T., <strong>Miri, P.</strong>, and Leanne Williams. <a href="https://clinicaltrials.gov/ct2/show/NCT03465137">"Using the Neuroscience of Fear Extinction for Anxiety Reduction: Study Design, Aims, and Preliminary Data."</a> In <i>Neuropsychopharmacology</i>, vol. 44, no. SUPPL 1, pp. 267-268. 2019.
-                    </Col>
-                </Row>
+                
             </Container>
             <hr />
 {/**Journal */}
@@ -165,6 +145,26 @@ const PublicationsPage = () => {
             <hr />
             <h2>Workshop and Extended Abstracts</h2>
             <Container className="publications">
+            <Row>
+                    <Col md={10}>
+                        Ball, T., <strong>Miri, P.</strong>, and Leanne Williams. <a href="https://clinicaltrials.gov/ct2/show/NCT03465137">"Using the Neuroscience of Fear Extinction for Anxiety Reduction: Study Design, Aims, and Preliminary Data."</a> In <i>Neuropsychopharmacology</i>, vol. 44, no. SUPPL 1, pp. 267-268. 2019.
+                    </Col>
+                </Row>
+            <hr />
+            <Row>   
+                <Col md={10}>
+                    <strong>Miri, P.</strong>, 
+                        Uusberg, A., Culbertson, H., Flory, R., Uusberg, H., Gross, J. J., … & Isbister, K. (2018). 
+                    <a href="https://par.nsf.gov/servlets/purl/10092339"> Emotion regulation in the wild: Introducing WEHAB system architecture. </a>
+                        In <i>Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems</i> (p. LBW021). ACM. doi:10.1145/3170427.3188495                    
+                    <ul class="article-nav">
+                        <a href="https://par.nsf.gov/servlets/purl/10092339">
+                            PDF
+                        </a>
+                    </ul>
+                </Col>
+                </Row>
+            <hr />
                 <Row>
                     <Col md={10}>
                         <strong>Miri, P.</strong>, Jusuf, E., Gross J. J., Isbister K., Marzullo K. (in press). <a href="https://wehab.stanford.edu/wp-content/uploads/2019/08/ACII2019_miri_2019_shortV-1.pdf">"Affect regulation using technology: Lessons learned by taking a multidisciplinary perspective."</a>, in <i>8th International Conference on Affective Computing and Intelligent Interaction (ACII) 2019</i>
