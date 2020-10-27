@@ -28,7 +28,7 @@ const ResearchPage = () => {
                         <Col md={4} sm={6} xs={12}>
                             <figure>
                                 <div className="img-wrapper">
-                                    <img className="reframe" src="https://raw.githubusercontent.com/jacquelinennguyen/wehab_new_site/bd12308f4f17727eacc555ea7b77a9f25ef55e2b/Desktop/wehab-site/src/imgs/far-icon.svg?raw=true" alt="FAR: Facilitating Affect Regulation in Youth with Autism Spectrum Disorder"></img>
+                                    <img className="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/far-icon.svg?raw=true" alt="FAR: Facilitating Affect Regulation in Youth with Autism Spectrum Disorder"></img>
                                     <div className="img-overlay">
                                         <div class="buttons">
                                             <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Video</a>
@@ -103,7 +103,7 @@ const ResearchPage = () => {
                     <Col md={4} sm={6} xs={12}>
                         <figure>
                             <div class="img-wrapper">
-                                <img className="reframe" src="https://wehab.stanford.edu/wp-content/uploads/2018/10/Intel-Aug03-17-1.png" alt="Hapland: a scalable robust emotion regulation haptic system testbed"></img>
+                                <img className="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/hapland-icon.svg?raw=true" alt="Hapland: a scalable robust emotion regulation haptic system testbed"></img>
                                 <div class="img-overlay">
                                     <div class="buttons">
                                         <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Video</a>
@@ -126,7 +126,7 @@ const ResearchPage = () => {
                     <Col md={4} sm={6} xs={12}>
                         <figure>
                             <div class="img-wrapper">
-                                <img className="reframe" src="https://wehab.stanford.edu/wp-content/uploads/2018/10/WEHAb.png" alt="Emotion Regulation in the Wild: Introducing WEHAB System Architecture"></img>
+                                <img className="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/wehab-icon.svg?raw=true" alt="Emotion Regulation in the Wild: Introducing WEHAB System Architecture"></img>
                                 <div class="img-overlay">
                                     <div class="buttons">
                                         <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Video</a>
@@ -161,7 +161,7 @@ const ResearchPage = () => {
                                 <div class="desc-post">
                                     <h2 class="title-post">
                                         <a href="/research/vibroaffect">
-                                            VibroAffect
+                                            VibroAffect: The Underlying Affect Regulation Mechanism of a VibrotactileBreathing Pacer
                                         </a>
                                     </h2>
                                 </div>
