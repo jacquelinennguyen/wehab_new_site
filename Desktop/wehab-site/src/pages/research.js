@@ -28,7 +28,7 @@ const ResearchPage = () => {
                         <Col md={4} sm={6} xs={12}>
                             <figure>
                                 <div className="img-wrapper">
-                                    <img className="reframe" src="https://raw.githubusercontent.com/jacquelinennguyen/wehab_new_site/2943deb258c86dd97872bb70dd781afdbd37ef80/Desktop/wehab-site/src/imgs/far-icon.svg" alt="FAR: Facilitating Affect Regulation in Youth with Autism Spectrum Disorder"></img>
+                                    <img className="reframe" src="https://raw.githubusercontent.com/jacquelinennguyen/wehab_new_site/bd12308f4f17727eacc555ea7b77a9f25ef55e2b/Desktop/wehab-site/src/imgs/far-icon.svg?raw=true" alt="FAR: Facilitating Affect Regulation in Youth with Autism Spectrum Disorder"></img>
                                     <div className="img-overlay">
                                         <div class="buttons">
                                             <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Video</a>
