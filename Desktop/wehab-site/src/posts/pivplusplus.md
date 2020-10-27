@@ -3,15 +3,15 @@ title: "Efficacy of a Vibrotacticle Breathing Pacer in Presence of a Cognitive S
 ---
 ##### Pardis Miri, Emily Jusuf, Andero Uusberg, Horia Margarit, Robert Flory, Katherine Isbister, Keith Marzullo, James J. Gross
 
-## Overview
+#### Overview
 We built an inconspicuous breathing pacer system that applies vibrations onto the body with which a user may synchronize their breathing to bring down arousal in high-stress situations. We tested the system on neurotypical adults and found that the treatment group had reduced anxiety in the presence of a cognitive stressor (d = .33, p = .004) compared to the control group.
 
 PIV++ is a project that focuses on measuring PIV efficacy while a user is performing a psychological tasks, in this case, a compound remote associates test developed by Jung-Beeman et al. We are interested to determine the effect of the PIV in the presence of a stressor. Please find the details of the study at https://osf.io/rbk2h/
 
-## Abstract
+#### Abstract
 Given the prevalence and adverse impact of anxiety, there is considerable interest in using technology to regulate anxiety. Evaluating the efficacy of such technology in terms of both the average effect (the intervention success) and the heteroge- neous effect (for whom and in what context the intervention was effective) is of paramount importance. In this paper, we demonstrate the efficacy of PIV, a personalized breathing pacer, in reducing anxiety in the presence of a cognitive stressor. This is the first mixed-design study of a vibrotactile affect regula- tion technology which accounts for individual differences and user-technology engagement in relation to the technology’s efficacy in the presence of a specific stressor. Guidelines in this paper can be applied for designing and evaluating other affect regulation technologies.
 
-## Procedure
+### Procedure
 ![PIV++ Prodcedure](https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/pivplusplus_procedure.jpg?raw=true)
 
 The study took place in three stages. In Stage One, participants were recruited and checked for eligibility; a total of 97 participants (61 females, 36 male) took part in the study. After consenting to the study on-site, each participant completed surveys, such as Body Sensation surveys and the Big Five Inventory. Next, the participant’s baseline physiology was measured and answered a questionnaire asking how positive or negative he or she felt at the time. Each participant also took the STAI-6, a six question survey measuring state anxiety. Finally, the participant practiced a mindful, slow-paced breathing exercise to estimate BPM.
@@ -30,7 +30,7 @@ In Stage Three, the participants were introduced to the creativity task: a timed
 
 ⁠— Post Stressor 2 (just after taking the second test of word puzzles in Stage Three)
 
-## Results
+### Results
 ![Results 1](https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/pivplusplus_results.png?raw=true)
 
 We predicted that the control and treatment groups would show approximately equal levels of anxiety at post-stressor 1, and that the treatment group would show reduced anxiety at post-stressor 2. We observed the interaction effect F(1,9) = 5.55, eta squared = .055, p = .02 and the main effect effect of condition, F(1,94) = 6.01, eta squared = .060, p = .01. What we found was that the treatment group showed less anxiety than the control group at post-stressor 2 compared to post-stressor 1 (treatment group mean difference post-stressor 1 post-stressor 2 = 3.26, d = .33, p = .004), but the control group did not showed reduced anxiety at post-stressor 2 compared to post-stressor 1 (control group mean difference post-stressor 1 vs 2 = .06 , d = .05, p = .93 ).
