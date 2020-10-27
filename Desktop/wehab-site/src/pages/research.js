@@ -149,7 +149,7 @@ const ResearchPage = () => {
                     <Col md={4} sm={6} xs={12}>
                         <figure>
                             <div class="img-wrapper">
-                                <img className="reframe" src="https://wehab.stanford.edu/wp-content/uploads/2018/10/WEHAb.png" alt="Emotion Regulation in the Wild: Introducing WEHAB System Architecture"></img>
+                                <img className="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/vibroaffect-icon.png?raw=true" alt="VibroAffect"></img>
                                 <div class="img-overlay">
                                     <div class="buttons">
                                         <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Video</a>
