@@ -23,16 +23,16 @@ const PublicationsPage = () => {
                         <i>ACM Transactions on Computer-Human Interaction (CHI) 2020</i>. Best Paper Honorable Mention Award (Top 5%)
                         <ul class="article-nav">
                             <li>
-                                <a href="https://wehab.stanford.edu/wp-content/uploads/2020/03/Sup_CHI_2020.pdf">Q&A</a>
+                                <a href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/Sup_CHI_2020.pdf">Q&A</a>
                             </li>
                             <li>
-                                <a href="https://wehab.stanford.edu/wp-content/uploads/2020/05/Evaluating-a-Personalizable-Inconspicuous-VibrotactilePIV-Breathing-Pacer-for-In-the-Moment-Affect-Regulation.pdf">Award</a>
+                                <a href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/CHI_2020_Award.pdf">Award</a>
                             </li>
                             <li>
-                                <a href="https://wehab.stanford.edu/wp-content/uploads/2020/04/CHI2020_All_reviews_with_rebuttal_responses.pdf">Peer Review</a>
+                                <a href="/">Peer Review</a>
                             </li>
                             <li>
-                                <a href="https://wehab.stanford.edu/wp-content/uploads/2020/04/CHI2020_rebuttal_color_coded_with-content_submitted.pdf">Rebuttal</a>
+                                <a href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/CHI2020_rebuttal_color_coded_with-content_submitted.pdf">Rebuttal</a>
                             </li>
                             <li>
                                 <a href="https://www.youtube.com/watch?v=esvNkZXEimE">Video</a>
@@ -167,9 +167,9 @@ const PublicationsPage = () => {
             <hr />
                 <Row>
                     <Col md={10}>
-                        <strong>Miri, P.</strong>, Jusuf, E., Gross J. J., Isbister K., Marzullo K. (in press). <a href="https://wehab.stanford.edu/wp-content/uploads/2019/08/ACII2019_miri_2019_shortV-1.pdf">"Affect regulation using technology: Lessons learned by taking a multidisciplinary perspective."</a>, in <i>8th International Conference on Affective Computing and Intelligent Interaction (ACII) 2019</i>
+                        <strong>Miri, P.</strong>, Jusuf, E., Gross J. J., Isbister K., Marzullo K. (in press). <a target="_blank" href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/ACII2019_miri_2019_shortV-1.pdf">"Affect regulation using technology: Lessons learned by taking a multidisciplinary perspective."</a>, in <i>8th International Conference on Affective Computing and Intelligent Interaction (ACII) 2019</i>
                         <ul class="article-nav">
-                            <a href="https://wehab.stanford.edu/wp-content/uploads/2019/08/ACII2019_miri_2019_shortV-1.pdf">PDF
+                            <a target="_blank" href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/ACII2019_miri_2019_shortV-1.pdf">PDF
                             </a>
                         </ul>
                     </Col>
