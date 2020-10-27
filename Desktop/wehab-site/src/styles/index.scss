@@ -7,5 +7,13 @@ p, h2, h3{
 }
 
 body {
-    background-color: lightblue;
+    background-color: white;
+}
+
+.rectangle {
+    height: 10px;
+    width: 100%;
+    position: relative;
+    top: 15px;
+    background-color: #2e2d29;
 }

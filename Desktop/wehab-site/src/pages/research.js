@@ -18,6 +18,7 @@ const ResearchPage = () => {
                                     <div className="img-overlay">
                                         <div class="buttons">
                                             <a target="_blank" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Video</a>
+                                            <a target="_blank" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Details</a>
                                         </div>
                                     </div> 
                                 </div>
@@ -57,45 +58,100 @@ const ResearchPage = () => {
                         </Col>
                     
                     <Col md={4} sm={6} xs={12}>
-                        <a href="/">
-                            <img className="reframe" src="https://wehab.stanford.edu/wp-content/uploads/2019/01/PIV.png" alt="PIV: Personalizable Inconspicuous Vibrotactile Breathing Pacer"></img>
-                        </a>
-                        <div class="desc-post">
-                            <h2 class="title-post">
-                                <a href="/">
-                                    PIV: Personalizable Inconspicuous Vibrotactile Breathing Pacer
-                                </a>
-                            </h2>   
-                        </div>
+                        <figure>
+                            <div className="img-wrapper">
+                                <img className="reframe" src="https://wehab.stanford.edu/wp-content/uploads/2019/01/PIV.png" alt="PIV: Personalizable Inconspicuous Vibrotactile Breathing Pacer"></img>
+                                <div class="img-overlay">
+                                    <div class="buttons">
+                                        <a target="_blank" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Video</a>
+                                        <a target="_blank" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Details</a>                                        
+                                    </div>
+                                </div>
+                            </div>
+
+                            <figcaption>
+                                <div class="desc-post">
+                                    <h2 class="title-post">
+                                        <a href="/">
+                                            PIV: Personalizable Inconspicuous Vibrotactile Breathing Pacer
+                                        </a>
+                                    </h2>   
+                                </div>
+                            </figcaption>
+                        </figure>
+                    
+                        
                     </Col>
                 </Row>
 
                 <Row>
                     <Col md={4} sm={6} xs={12}>
-                        <a href="/">
-                            <img className="reframe" src="https://wehab.stanford.edu/wp-content/uploads/2018/10/Intel-Aug03-17-1.png" alt="Hapland: a scalable robust emotion regulation haptic system testbed"></img>
-                        </a>
-                        <div class="desc-post">
-                            <h2 class="title-post">
-                                <a href="/">
-                                    Hapland: a scalable robust emotion regulation haptic system testbed
-                                </a>
-                            </h2>   
-                        </div>
+                        <figure>
+                            <div class="img-wrapper">
+                                <img className="reframe" src="https://wehab.stanford.edu/wp-content/uploads/2018/10/Intel-Aug03-17-1.png" alt="Hapland: a scalable robust emotion regulation haptic system testbed"></img>
+                                <div class="img-overlay">
+                                    <div class="buttons">
+                                        <a target="_blank" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Video</a>
+                                        <a target="_blank" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Details</a>                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <figcaption>
+                                <div class="desc-post">
+                                    <h2 class="title-post">
+                                        <a href="/">
+                                            Hapland: a scalable robust emotion regulation haptic system testbed
+                                        </a>
+                                    </h2>   
+                                </div>
+                            </figcaption>
+                        </figure>                       
                     </Col>
+
                     <Col md={4} sm={6} xs={12}>
-                        <a href="/">
-                            <img className="reframe" src="https://wehab.stanford.edu/wp-content/uploads/2018/10/WEHAb.png" alt="Emotion Regulation in the Wild: Introducing WEHAB System Architecture"></img>
-                        </a>
-                        <div class="desc-post">
-                            <h2 class="title-post">
-                                <a href="/">
-                                    Emotion Regulation in the Wild: Introducing WEHAB System Architecture
-                                </a>
-                            </h2>   
-                        </div>
+                        <figure>
+                            <div class="img-wrapper">
+                                <img className="reframe" src="https://wehab.stanford.edu/wp-content/uploads/2018/10/WEHAb.png" alt="Emotion Regulation in the Wild: Introducing WEHAB System Architecture"></img>
+                                <div class="img-overlay">
+                                    <div class="buttons">
+                                        <a target="_blank" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Video</a>
+                                        <a target="_blank" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Details</a>                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <figcaption>
+                                <div class="desc-post">
+                                    <h2 class="title-post">
+                                        <a href="/">
+                                            Emotion Regulation in the Wild: Introducing WEHAB System Architecture
+                                        </a>
+                                    </h2>   
+                                </div>
+                            </figcaption>
+                        </figure>   
                     </Col>
+
                     <Col md={4} sm={6} xs={12}>
+                        <figure>
+                            <div class="img-wrapper">
+                                <img className="reframe" src="https://wehab.stanford.edu/wp-content/uploads/2018/10/WEHAb.png" alt="Emotion Regulation in the Wild: Introducing WEHAB System Architecture"></img>
+                                <div class="img-overlay">
+                                    <div class="buttons">
+                                        <a target="_blank" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Video</a>
+                                        <a target="_blank" href="https://www.youtube.com/watch?v=8sheoGMsy3Q">Details</a>                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <figcaption>
+                                <div class="desc-post">
+                                    <h2 class="title-post">
+                                        <a href="/">
+                                            VibroAffect
+                                        </a>
+                                    </h2>
+                                </div>
+                            </figcaption>
+                        </figure>
                     </Col>
                 </Row>      
             </Container>

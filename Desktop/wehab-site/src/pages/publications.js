@@ -29,7 +29,7 @@ const PublicationsPage = () => {
                                 <a href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/CHI_2020_Award.pdf">Award</a>
                             </li>
                             <li>
-                                <a href="/">Peer Review</a>
+                                <a href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/CHI2020_All_reviews_with_rebuttal_responses.pdf">Peer Review</a>
                             </li>
                             <li>
                                 <a href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/CHI2020_rebuttal_color_coded_with-content_submitted.pdf">Rebuttal</a>

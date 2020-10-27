@@ -31,8 +31,11 @@ const CVPage = () => {
             Dr. Miri’s research is supported by funding both from the National Science Foundation and from the Stanford Wearable Electronics (eWear) Initiative (the project for which she is the lead Principal Investigator). 
         </p>
         <hr></hr>
+{/* Education */}
         <Row>
-            <Col md={2}></Col>
+            <Col md={2}>
+                <div class="rectangle"></div>
+            </Col>
             <Col>
                 <h3>Education</h3>
             </Col>
@@ -89,9 +92,64 @@ const CVPage = () => {
         </Row>
 
         <hr /> 
-
+{/* Software Artifacts */}
         <Row>
-            <Col md={2}></Col>
+            <Col md={2}>
+                <div class="rectangle"></div>
+            </Col>
+            <Col>
+                <h3>Software Artifacts</h3>
+            </Col>
+        </Row>
+        <Row>
+            <Col md={2} />
+            <Col>
+                <p>
+                    <b>Embedded Systems</b>
+                    <br />
+                    Firmware programming of nRF52 semiconductors (microprocessors) equipped with Bluetooth low energy. This utilized Advanced Bluetooth Low Energy Communication for when the central and peripheral roles change dynamically.
+                </p>
+                <p>
+                    <b>Signal Processing</b>
+                    <br />
+                    Inferring psychological arousal from skin conductance data using model-based approaches in LedaLab. 
+                    <br />
+                    Inferring breathing rate and breathing irregularity from respiration data using a variety of methods including Empirical Mode Decomposition, Fast Fourier Transform, Independent Component Analysis, and Exponential Smoothing.
+                </p>
+                <p>
+                    <b>App Development Management</b>
+                    <br />
+                    iOS Swift language programming to build a personalization app and send/receive communication with a BLE enabled semiconductors. I managed my interns who took the role of developers.
+                </p>
+                <p>
+                    <b>Machine Learning (Stanford CS 229)</b>
+                    <br />
+                    Use of linear regression, logistic regression, XGBoost regression models and Shapley Values to identify for whom and in what context an intervention is effective (i.e., identifying heterogeneous effect).
+                    <br />
+                    Compound Remote Associate  (CRA) stressor tasks balancing using clustering algorithms.
+                </p>
+                <p>
+                    <b>Experimental Design (Stanford Psych251 and 252)</b>
+                    <br />
+                    Bootstrapped Mixed Design Modeling and Power Analysis in R.
+                    <br />
+                    Boostrapped Mediation Analysis in R. 
+                    <br />
+                    Wilcoxon signed rank test in R.
+                </p>
+                <p>
+                    <b>Programming Expertise</b>
+                    <br />
+                    Proficiency in R, Python, and MatLab programming
+                </p>
+            </Col>
+        </Row>
+        <hr />
+{/* Internships */}
+        <Row>
+            <Col md={2}>
+                <div class="rectangle"></div>
+            </Col>
             <Col>
                 <h3>Internships</h3>
             </Col>
@@ -164,9 +222,11 @@ const CVPage = () => {
         </Row> 
 
         <hr />
-
+{/* Major Projects */}
         <Row>
-            <Col md={2}></Col>
+            <Col md={2}>
+                <div class="rectangle"></div>
+            </Col>
             <Col>
                 <h3>Major Projects</h3>
             </Col>
@@ -194,9 +254,9 @@ const CVPage = () => {
         </Row>
 
         <hr />
-
+{/* Teaching Experience */}
         <Row>
-            <Col md={2}></Col>
+            <Col md={2}><div class="rectangle"></div></Col>
             <Col>
                 <h3>Teaching Experience</h3>
             </Col>
@@ -215,9 +275,9 @@ const CVPage = () => {
         </Row>
 
         <hr />
-
+{/* Publications */}
         <Row>
-            <Col md={2}></Col>
+            <Col md={2}><div class="rectangle"></div></Col>
             <Col>
             <h3>Publications</h3>
             </Col>
@@ -230,11 +290,11 @@ const CVPage = () => {
         </Row>             
 
         <hr />
-
+{/* Awards and Honors */}
         <Row>
-            <Col md={2}></Col>
+            <Col md={2}><div class="rectangle"></div></Col>
             <Col>
-                <h3>Conferences</h3>
+                <h3>Awards and Honors</h3>
             </Col>
         </Row> 
         <Row>
@@ -293,9 +353,9 @@ const CVPage = () => {
         </Row>
 
         <hr />
-
+{/* Grant and Proposal Writing */}
         <Row>
-            <Col md={2}></Col>
+            <Col md={2}><div class="rectangle"></div></Col>
             <Col>
                 <h3>
                     Grant and Proposal Writing
@@ -351,45 +411,9 @@ const CVPage = () => {
         </Row>
 
         <hr />
-
+{/* Invited Talks */}
         <Row>
-            <Col md={2} />
-            <Col>
-                <h3>Software Artifacts</h3>
-            <p>
-                <b>Embedded Systems</b>,
-                <ul>
-                    <li>Firmware programming of nRF52 semiconductors (microprocessors equipped with Bluetooth low energy. </li>
-                    <li>Advanced Bluetooth Low Energy Communication when central and peripheral roles changes dynamically. </li>
-                </ul>
-            </p>
-            <p>
-                <b>Signal Processing</b>,
-                <ul>
-                    <li>Extracting breathing rate from blood volume pulse signal.</li>
-                    <li>Inferring psychological arousal from skin conductance data using model-based approaches in LedaLab and PsPM. </li>
-                    <li>Inferring breathing rate and breathing irregularity from noisy breathing data using variety of methods including Fast Fourier Transform, Independent Component Analysis, and Exponential Smoothing.</li>
-                </ul>
-            </p>
-            <p>
-                <b>App Development</b>,
-                <ul><li>iOS Swift language programming to build a personalization app and send/receive communication with a BLE enabled semiconductors.</li>
-                    </ul>
-            </p>
-            <p>
-                <b>Machine Learning</b>,
-                <ul><li>Stressor balancing using clustering algorithms.</li></ul>
-            </p>
-            <p><b>Experimental Design</b>,
-                <ul><li>Bootstrapped Mixed Design Modeling and Power Analysis in R</li></ul>
-            </p>
-            </Col>            
-        </Row>
-
-        <hr />
-
-        <Row>
-            <Col md={2}></Col>
+            <Col md={2}><div class="rectangle"></div></Col>
             <Col>
                 <h3>Invited Talks</h3>
             </Col>
@@ -435,13 +459,14 @@ const CVPage = () => {
         
 
         <hr />
-
+{/* Scholarly Service */}
         <Row>
-            <Col md={2} />
+            <Col md={2}><div class="rectangle"></div></Col>
             <Col>
                 <h3>Scholarly Service</h3>
             </Col>
         </Row>
+        <p><b>Conference Reviewing</b></p>
         <p>
             <Row>
             <Col md={2} style={{textAlign:"right"}}>2019</Col>
@@ -456,22 +481,38 @@ const CVPage = () => {
             </Col>
         </Row>
         </p>
-        
-
-        <hr />
-
+        <p><b>University of California Santa Cruz</b></p>
         <Row>
-            <Col md={2} />
+            <Col md={2} style={{textAlign:"right"}}>2017</Col>
             <Col>
-             <h3>Mentoring Experience</h3>
+                CS Department PhD Admissions Committee
+            </Col>
+        </Row>
+        <hr />
+{/* Mentoring Experience */}
+        <Row>
+            <Col md={2} ><div class="rectangle"></div></Col>
+            <Col>
+             <h3>Mentoring and Management Experience</h3>
+            </Col>
+        </Row>
+        <Row>
+            <Col md={2} style={{textAlign:"right"}}>09/21 - 12/20</Col>
+            <Col>
+                <p>
+                    <b>Supervised Computer Science Undergraduate Research (CS 195)</b>, Stanford University
+                    <br />
+                    Mentoring Mehul Arora and Aman Malhota.
+                </p>
             </Col>
         </Row>   
         <Row>
-            <Col md={2} style={{textAlign:"right"}}>06/20 - present</Col>
+            <Col md={2} style={{textAlign:"right"}}>06/20 - 09/20</Col>
             <Col>
                 <p>
                     <b>Computer Science Undergraduate Internships (CURIS program)</b>, Stanford University 
-                    <br />Mentoring Stephanie Hu, Mehul Arora, and Aman Malhota.
+                    <br />
+                    Mentoring Stephanie Hu, Mehul Arora, and Aman Malhota.
                 </p>
             </Col>
         </Row>
@@ -480,14 +521,15 @@ const CVPage = () => {
             <Col>
                 <p>
                     <b>WEHAB Lab</b>, Stanford University
-                    <br />Undergraduate, masters, and PhD students: Talia Regenstein, Elaheh Salehi, Eman Magzoub, Satvir Basran, Anna Speder, Sae Du, Eli Rice, Yi-Hsuan Wu, Akanksha Shrivastava, Joshua Chon, Candace Hagey, Agata Kelman, Aidan Levin, Aditi Gupta, Emily Jusuf, Alyssa Jackson, Stephanie Hu, Mehul Arora, Aman Malhota, Ishan Goya.
+                    <br />
+                    Undergraduate, masters, and PhD students: Talia Regenstein, Elaheh Salehi, Eman Magzoub, Satvir Basran, Anna Speder, Sae Du, Eli Rice, Yi-Hsuan Wu, Akanksha Shrivastava, Joshua Chon, Candace Hagey, Agata Kelman, Aidan Levin, Aditi Gupta, Emily Jusuf, Jacqueline Nguyen, Alyssa Jackson, Stephanie Hu, Mehul Arora, Aman Malhota, Ishan Goya
                 </p>
             </Col>
         </Row>
         <hr />
-
+{/* Press */}
         <Row>
-            <Col md={2} />
+            <Col md={2}><div class="rectangle"></div></Col>
             <Col>
                 <h3>Press</h3>
             </Col>
