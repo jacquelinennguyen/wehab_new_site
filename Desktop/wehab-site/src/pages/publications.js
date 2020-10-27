@@ -19,7 +19,7 @@ const PublicationsPage = () => {
                     <Col md={10}>
                         <strong>Miri, P.</strong>, 
                         Jusuf, E., Margarit, H.,Flory, R., Uusberg, A., Isbister K., Marzullo K., Gross J. J. 
-                        <a href="https://wehab.stanford.edu/wp-content/uploads/2020/03/CHI_2020.pdf"> PIV++: Evaluating a Personalizable, Inconspicuous Vibrotactile (PIV) Breathing Pacer for In-the-Moment Affect Regulation </a>
+                        <a target="blank" href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/CHI_2020.pdf"> PIV++: Evaluating a Personalizable, Inconspicuous Vibrotactile (PIV) Breathing Pacer for In-the-Moment Affect Regulation </a>
                         <i>ACM Transactions on Computer-Human Interaction (CHI) 2020</i>. Best Paper Honorable Mention Award (Top 5%)
                         <ul class="article-nav">
                             <li>
@@ -38,7 +38,7 @@ const PublicationsPage = () => {
                                 <a href="https://www.youtube.com/watch?v=esvNkZXEimE">Video</a>
                             </li>
                             <li>
-                            <a href="https://wehab.stanford.edu/wp-content/uploads/2020/03/CHI_2020.pdf">PDF</a>
+                            <a href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/CHI_2020.pdf">PDF</a>
                             </li>
                         </ul>
                     </Col>
@@ -99,25 +99,25 @@ const PublicationsPage = () => {
                         </ul>
                     </Col>
                 </Row>
-                <hr />
                 
             </Container>
-            
+            <hr />
+
 {/**Journal */}
-            <h2>Journals</h2>
+            <h2>Journal</h2>
             <Container className="publications">
             <Row>
                     <Col md={10}>
                         <strong>Miri, P.</strong>, 
                         Flory, R., Uusberg, A., Culbertson, H., Harvey, R., Keman, A., Peper, E., Gross, J. J., Marzullo, M. (2019).  
-                        <a href="https://wehab.stanford.edu/wp-content/uploads/2020/04/TOCHI19_PIV_revised_round3.pdf"> PIV: Placement, pattern, and personalization of an inconspicuous vibrotactile breathing pacer. </a> 
+                        <a target="_blank" href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/TOCHI19_PIV_revised_round3.pdf"> PIV: Placement, pattern, and personalization of an inconspicuous vibrotactile breathing pacer. </a> 
                         <i>ACM Transactions on Computer-Human Interaction (TOCHI).</i>
                         <ul class="article-nav">
                                 <li>
                                     <a href="https://www.youtube.com/watch?v=c1ezpVQLjkw">Video</a>
                                 </li>
                                 <li>
-                                    <a href="https://wehab.stanford.edu/wp-content/uploads/2020/04/TOCHI19_PIV_revised_round3.pdf">PDF</a> 
+                                    <a target="blank" href="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/docs/TOCHI19_PIV_revised_round3.pdf">PDF</a> 
                                 </li>
                         </ul>
                     </Col>
