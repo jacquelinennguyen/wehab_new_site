@@ -102,7 +102,7 @@ const PublicationsPage = () => {
                 <hr />
                 
             </Container>
-            <hr />
+            
 {/**Journal */}
             <h2>Journals</h2>
             <Container className="publications">

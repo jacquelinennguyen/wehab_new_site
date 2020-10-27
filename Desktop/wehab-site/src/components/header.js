@@ -1,6 +1,6 @@
 import React from "react"
 import {Link} from 'gatsby'
-import HeaderStyles from '../styles/header.scss'
+import HeaderStyles from './header.scss'
 import Button from 'react-bootstrap/Button'
 import Collapse from 'react-bootstrap/Collapse'
 

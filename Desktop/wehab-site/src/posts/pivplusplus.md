@@ -1,11 +1,13 @@
 # Efficacy of a Vibrotacticle Breathing Pacer in Presence of a Cognitive Stressor
-
-## Collaborators
+## Pardis Miri, Emily Jusuf, Andero Uusberg, Horia Margarit, Robert Flory, Katherine Isbister, Keith Marzullo, James J. Gross
 
 ## Overview
 We built an inconspicuous breathing pacer system that applies vibrations onto the body with which a user may synchronize their breathing to bring down arousal in high-stress situations. We tested the system on neurotypical adults and found that the treatment group had reduced anxiety in the presence of a cognitive stressor (d = .33, p = .004) compared to the control group.
 
 PIV++ is a project that focuses on measuring PIV efficacy while a user is performing a psychological tasks, in this case, a compound remote associates test developed by Jung-Beeman et al. We are interested to determine the effect of the PIV in the presence of a stressor. Please find the details of the study at https://osf.io/rbk2h/
+
+## Abstract
+Given the prevalence and adverse impact of anxiety, there is considerable interest in using technology to regulate anxiety. Evaluating the efficacy of such technology in terms of both the average effect (the intervention success) and the heteroge- neous effect (for whom and in what context the intervention was effective) is of paramount importance. In this paper, we demonstrate the efficacy of PIV, a personalized breathing pacer, in reducing anxiety in the presence of a cognitive stressor. This is the first mixed-design study of a vibrotactile affect regula- tion technology which accounts for individual differences and user-technology engagement in relation to the technology’s efficacy in the presence of a specific stressor. Guidelines in this paper can be applied for designing and evaluating other affect regulation technologies.
 
 ## Procedure
 ![PIV++ Prodcedure](https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/pivplusplus_procedure.jpg?raw=true)
