@@ -9,6 +9,85 @@ import Col from 'react-bootstrap/Col'
 const TeamPage = () => {
     return (
         <Layout>
+{/* Senior Lab Members */}
+            <h2>Senior Lab Members</h2>
+                <Container>
+                    <Row>
+                    <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/PardisMiri.jpg?raw=true" alt="Pardis Miri"></img>
+                            <h3 className="team-name">Pardis "Paris" Miri</h3>
+                            <h4 className="team-title">
+                                Postdoctoral Research Fellow, Lab Director
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                parism@stanford.edu
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://paris.sites.ucsc.edu/">Website</a>
+                                <a href="https://www.linkedin.com/in/pardis-paris-miri-b5531216/">Linkedin</a>
+                                <a href="https://github.com/paris007">GitHub</a>
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/john-hegarty.png?raw=true" alt="John Hegarty"></img>
+                            <h3 className="team-name">John Hegarty</h3>
+                            <h4 className="team-title">
+                                Postdoctoral Research Fellow
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                hegartyj@stanford.edu
+                            </div>
+                            <p className="team-nav">
+                                
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/andero-uusberg.jpg?raw=true" alt="Andero Uusberg"></img>
+                            <h3 className="team-name">Andero Uusberg</h3>
+                            <h4 className="team-title">
+                                Senior Research Fellow, University of Tartu
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                andero.uusberg@ut.ee
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.ut.ee/en/kontakt/psuhholoogia-instituut">Website</a>
+                                
+                            </p>                         
+                        </Col>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/horia-margarit.jpg?raw=true" alt="Horia Margarit"></img>
+                            <h3 className="team-name">Horia Margarit</h3>
+                            <h4 className="team-title">
+                                Stanford Postgraduate Researcher
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                horia@alumni.stanford.edu
+                            </div>
+                            <p className="team-nav">
+                                
+                                
+                            </p>                         
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col md={3} sm={6} xs={12}>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/robert-flory.jpg?raw=true" alt="Robert Flory"></img>
+                            <h3 className="team-name">Robert Flory</h3>
+                            <h4 className="team-title">
+                                Researcher
+                            </h4>
+                            <div className="team-desc" id="team-desc">
+                                
+                            </div>
+                            <p className="team-nav">
+                                <a href="https://www.linkedin.com/in/robert-flory-62937293/">LinkedIn</a>
+                            </p>                         
+                        </Col>                        
+                    </Row>
+                </Container>
+{/* Professors */}
             <h2>Professors</h2>
                 <Container>
                     <Row>
@@ -162,85 +241,40 @@ const TeamPage = () => {
                                 
                             </p>                         
                         </Col>
-                    </Row>
-                </Container>
-                <h2>Senior Lab Members</h2>
-                <Container>
-                    <Row>
-                    <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/PardisMiri.jpg?raw=true" alt="Pardis Miri"></img>
-                            <h3 className="team-name">Pardis "Paris" Miri</h3>
-                            <h4 className="team-title">
-                                Postdoctoral Research Fellow, Lab Director
-                            </h4>
-                            <div className="team-desc" id="team-desc">
-                                parism@stanford.edu
-                            </div>
-                            <p className="team-nav">
-                                <a href="https://paris.sites.ucsc.edu/">Website</a>
-                                <a href="https://www.linkedin.com/in/pardis-paris-miri-b5531216/">Linkedin</a>
-                                <a href="https://github.com/paris007">GitHub</a>
-                            </p>                         
-                        </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/john-hegarty.png?raw=true" alt="John Hegarty"></img>
-                            <h3 className="team-name">John Hegarty</h3>
+                            <img class="reframe" src="https://profiles.stanford.edu/proxy/api/cap/profiles/84156/resources/profilephoto/350x350.1509565007885.jpg" alt="Dan Yamins"></img>
+                            <h3 className="team-name">Dan Yamins</h3>
                             <h4 className="team-title">
-                                Postdoctoral Research Fellow
+                                Associate Professor of Psychology and Computer Science
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                hegartyj@stanford.edu
+                                yamins@stanford.edu
+                                dyamins@gmail.com
                             </div>
                             <p className="team-nav">
-                                
-                                
-                            </p>                         
-                        </Col>
-                        <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/andero-uusberg.jpg?raw=true" alt="Andero Uusberg"></img>
-                            <h3 className="team-name">Andero Uusberg</h3>
-                            <h4 className="team-title">
-                                Senior Research Fellow, University of Tartu
-                            </h4>
-                            <div className="team-desc" id="team-desc">
-                                andero.uusberg@ut.ee
-                            </div>
-                            <p className="team-nav">
-                                <a href="https://www.ut.ee/en/kontakt/psuhholoogia-instituut">Website</a>
-                                
-                            </p>                         
-                        </Col>
-                        <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/horia-margarit.jpg?raw=true" alt="Horia Margarit"></img>
-                            <h3 className="team-name">Horia Margarit</h3>
-                            <h4 className="team-title">
-                                Stanford Postgraduate Researcher
-                            </h4>
-                            <div className="team-desc" id="team-desc">
-                                horia@alumni.stanford.edu
-                            </div>
-                            <p className="team-nav">
-                                
+                                <a href="https://web.stanford.edu/~yamins/">Website</a>
                                 
                             </p>                         
                         </Col>
                     </Row>
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/robert-flory.jpg?raw=true" alt="Robert Flory"></img>
-                            <h3 className="team-name">Robert Flory</h3>
+                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/tali-ball.jpg?raw=true" alt="Tali Ball"></img>
+                            <h3 className="team-name">Tali Ball</h3>
                             <h4 className="team-title">
-                                Researcher
+                                Instructor in Psychiatry and Behavioral Sciences
                             </h4>
                             <div className="team-desc" id="team-desc">
-                                
+                                tmball@stanford.edu
                             </div>
                             <p className="team-nav">
-                                <a href="https://www.linkedin.com/in/robert-flory-62937293/">LinkedIn</a>
+                                <a href="https://stanfordstarlab.com/">Website</a>
+                                
                             </p>                         
-                        </Col>                        
+                        </Col>
                     </Row>
                 </Container>
+{/* Current Research Assistants */}
                 <h2>Current Research Assistants</h2>
                 <Container>
                     <Row>

@@ -25,9 +25,9 @@ const DirectorPage = () => {
                         <p>
                             At Wehab lab I leads a multidisciplinary research team (WEHAB team) aimed at the design, engineering, and evaluation of technologies to help people to successfully manage their emotions, moods, and stress responses.  I am  interested in both neurotypical and neurodiverse populations.
                         </p>
-                        <p>
+                        {/*<p>
                             Specifically, my work focuses on using theoretically-grounded and data-driven approaches to engineer end-to-end systems that empower people to regulate their unwanted affective experiences and behaviors in their everyday lives. Then, by running carefully-designed clinical experiments, I examine both the average effect (whether the system was effective in changing affect) and the heterogeneous effect (for whom the system was effective) of my systems. The results of this research will inform practice about what types of interventions are more useful for what type of trait and state individual differences, and will reduce the use of drugs in personalized mental healthcare.
-                        </p>
+                        </p>*/}
                         <p>
                             My research is supported by funding both from the National Science Foundation and from the Stanford Wearable Electronics (eWear) Initiative (the project for which she is the lead Principal Investigator). With this funding, I have managed a large set of undergraduate and graduate student researchers, overseeing their work in the development of the technology and experiments, conducting the necessary literature reviews and experimental evaluations, and in writing up and publishing the results as well as in preparing and making presentations to stakeholders and professional organizations.
                         </p>
