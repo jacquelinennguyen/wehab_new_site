@@ -1,5 +1,7 @@
-# Efficacy of a Vibrotacticle Breathing Pacer in Presence of a Cognitive Stressor
-## Pardis Miri, Emily Jusuf, Andero Uusberg, Horia Margarit, Robert Flory, Katherine Isbister, Keith Marzullo, James J. Gross
+---
+title: "Efficacy of a Vibrotacticle Breathing Pacer in Presence of a Cognitive Stressor"
+---
+##### Pardis Miri, Emily Jusuf, Andero Uusberg, Horia Margarit, Robert Flory, Katherine Isbister, Keith Marzullo, James J. Gross
 
 ## Overview
 We built an inconspicuous breathing pacer system that applies vibrations onto the body with which a user may synchronize their breathing to bring down arousal in high-stress situations. We tested the system on neurotypical adults and found that the treatment group had reduced anxiety in the presence of a cognitive stressor (d = .33, p = .004) compared to the control group.

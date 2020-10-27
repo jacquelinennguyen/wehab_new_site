@@ -1,4 +1,7 @@
-# HapLand: a scalable robust emotion regulation haptic system testbed
+---
+title: "HapLand: a scalable robust emotion regulation haptic system testbed"
+---
+
 ## Pardis Miri, Robert Flory, Andero Uusberg, Helen Uusberg, James J. Gross, Katherine Isbister
 
 ## Abstract

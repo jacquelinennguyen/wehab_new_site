@@ -1,5 +1,8 @@
-# Personalizable Inconspicuous Vibrotactile Breathing Pacer
-## Pardis Miri, Andero Uusberg, Heather Culbertson, Robert Flory, James J. Grossa, Keith Marzullo, Katherine Isbister
+---
+title: "Personalizable Inconspicuous Vibrotactile Breathing Pacer"
+---
+
+##### Pardis Miri, Andero Uusberg, Heather Culbertson, Robert Flory, James J. Grossa, Keith Marzullo, Katherine Isbister
 
 ## Abstract
 We describe the design and evaluation of PIV, a personalizable and inconspicuous vibrotactile breathing pacer. Given the prevalence and adverse impact of anxiety and anxiety disorders, our goal is to develop technology that helps people regulate their anxiety through paced breathing. We examined two previously unstudied questions: what is an effective vibrotactile pattern for paced breathing, and where should the tactors be placed on the body to make the pacer most effective? We designed a series of personalized vibrotactile pacing patterns, and evaluated them on three body sites, in terms of self-reported and psychophysiological measures including skin conductance (SC) and breath wave parameters. The results show that personalization plays an important role in PIV’s pattern and placement design choices and we concluded that the choice of frequency based, strong-exhale-phased patterns and abdomen placement are appropriate for future studies.
