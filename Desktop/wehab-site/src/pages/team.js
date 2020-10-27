@@ -14,7 +14,7 @@ const TeamPage = () => {
                 <Container>
                     <Row>
                     <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/PardisMiri.jpg?raw=true" alt="Pardis Miri"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/PardisMiri.jpg?raw=true" alt="Pardis Miri"></img>
                             <h3 className="team-name">Pardis "Paris" Miri</h3>
                             <h4 className="team-title">
                                 Postdoctoral Research Fellow, Lab Director
@@ -29,7 +29,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/john-hegarty.png?raw=true" alt="John Hegarty"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/john-hegarty.png?raw=true" alt="John Hegarty"></img>
                             <h3 className="team-name">John Hegarty</h3>
                             <h4 className="team-title">
                                 Postdoctoral Research Fellow
@@ -43,7 +43,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/andero-uusberg.jpg?raw=true" alt="Andero Uusberg"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/andero-uusberg.jpg?raw=true" alt="Andero Uusberg"></img>
                             <h3 className="team-name">Andero Uusberg</h3>
                             <h4 className="team-title">
                                 Senior Research Fellow, University of Tartu
@@ -57,7 +57,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/horia-margarit.jpg?raw=true" alt="Horia Margarit"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/horia-margarit.jpg?raw=true" alt="Horia Margarit"></img>
                             <h3 className="team-name">Horia Margarit</h3>
                             <h4 className="team-title">
                                 Stanford Postgraduate Researcher
@@ -73,7 +73,7 @@ const TeamPage = () => {
                     </Row>
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/robert-flory.jpg?raw=true" alt="Robert Flory"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/robert-flory.jpg?raw=true" alt="Robert Flory"></img>
                             <h3 className="team-name">Robert Flory</h3>
                             <h4 className="team-title">
                                 Researcher
@@ -92,7 +92,7 @@ const TeamPage = () => {
                 <Container>
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://raw.githubusercontent.com/jacquelinennguyen/wehab_new_site/master/Desktop/wehab-site/src/team-imgs/heather-culbertson.jpg" alt="Heather Culbertson"></img>
+                            <img class="reframe team-img" src="https://raw.githubusercontent.com/jacquelinennguyen/wehab_new_site/master/Desktop/wehab-site/src/team-imgs/heather-culbertson.jpg" alt="Heather Culbertson"></img>
                             <h3 className="team-name">Heather Culbertson</h3>
                             <h4 className="team-title">
                                 Assistant Professor of Computer Science, USC
@@ -105,7 +105,7 @@ const TeamPage = () => {
                             </p>
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://raw.githubusercontent.com/jacquelinennguyen/wehab_new_site/master/Desktop/wehab-site/src/team-imgs/lawrence-fung.jpg" alt="Lawrence Fung"></img>
+                            <img class="reframe team-img" src="https://raw.githubusercontent.com/jacquelinennguyen/wehab_new_site/master/Desktop/wehab-site/src/team-imgs/lawrence-fung.jpg" alt="Lawrence Fung"></img>
                             <h3 className="team-name">Lawrence Fung</h3>
                             <h4 className="team-title">
                                 Assistant Professor of Psychiatry and Behavioral Sciences
@@ -118,7 +118,7 @@ const TeamPage = () => {
                             </p>                        
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://raw.githubusercontent.com/jacquelinennguyen/wehab_new_site/master/Desktop/wehab-site/src/team-imgs/james-gross.jpg" alt="James Gross"></img>
+                            <img class="reframe team-img" src="https://raw.githubusercontent.com/jacquelinennguyen/wehab_new_site/master/Desktop/wehab-site/src/team-imgs/james-gross.jpg" alt="James Gross"></img>
                             <h3 className="team-name">James Gross</h3>
                             <h4 className="team-title">
                                 Professor of Psychology
@@ -132,7 +132,7 @@ const TeamPage = () => {
                             </p>                        
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/antonio-hardan.jpg?raw=true" alt="Antonio Hardan"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/antonio-hardan.jpg?raw=true" alt="Antonio Hardan"></img>
                             <h3 className="team-name">Antonio Hardan</h3>
                             <h4 className="team-title">
                                 Professor of Psychiatry and Behavioral Sciences
@@ -145,7 +145,7 @@ const TeamPage = () => {
                     </Row>
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/richard-harvey.jpg?raw=true" alt="Richard Harvey"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/richard-harvey.jpg?raw=true" alt="Richard Harvey"></img>
                             <h3 className="team-name">Richard Harvey</h3>
                             <h4 className="team-title">
                                 Associate Professor, SFSU
@@ -158,7 +158,7 @@ const TeamPage = () => {
                             </div> 
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/katherine-isbister.jpg?raw=true" alt="Katherine Isbister"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/katherine-isbister.jpg?raw=true" alt="Katherine Isbister"></img>
                             <h3 className="team-name">Katherine Isbister</h3>
                             <h4 className="team-title">
                                 Professor of Computational Media, UCSC
@@ -171,7 +171,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/keith-marzullo.jpg?raw=true" alt=""></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/keith-marzullo.jpg?raw=true" alt=""></img>
                             <h3 className="team-name">Keith Marzullo</h3>
                             <h4 className="team-title">
                                 Dean, UMD College of Information Studies
@@ -184,7 +184,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/erik-peper.jpg?raw=true" alt="Erik Peper"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/erik-peper.jpg?raw=true" alt="Erik Peper"></img>
                             <h3 className="team-name">Erik Peper</h3>
                             <h4 className="team-title">
                                 Professor of Holistic Health, SFSU
@@ -200,7 +200,7 @@ const TeamPage = () => {
                     </Row>
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/jennifer-phillips.jpg?raw=true" alt="Jennifer Phillips"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/jennifer-phillips.jpg?raw=true" alt="Jennifer Phillips"></img>
                             <h3 className="team-name">Jennifer Phillips</h3>
                             <h4 className="team-title">
                                 Clinical Professor of Psychiatry and Behavioral Sciences
@@ -214,7 +214,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/david-schneider.jpg?raw=true" alt="David Schneider"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/david-schneider.jpg?raw=true" alt="David Schneider"></img>
                             <h3 className="team-name">David Schneider</h3>
                             <h4 className="team-title">
                                 Professor of Microbiology and Immunology
@@ -228,7 +228,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/marlo-kohn.jpg?raw=true" alt="Marlo Kohn"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/marlo-kohn.jpg?raw=true" alt="Marlo Kohn"></img>
                             <h3 className="team-name">Marlo Kohn</h3>
                             <h4 className="team-title">
                                 Associate Director of the Product Realization Lab
@@ -242,7 +242,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://profiles.stanford.edu/proxy/api/cap/profiles/84156/resources/profilephoto/350x350.1509565007885.jpg" alt="Dan Yamins"></img>
+                            <img class="reframe team-img" src="https://profiles.stanford.edu/proxy/api/cap/profiles/84156/resources/profilephoto/350x350.1509565007885.jpg" alt="Dan Yamins"></img>
                             <h3 className="team-name">Dan Yamins</h3>
                             <h4 className="team-title">
                                 Associate Professor of Psychology and Computer Science
@@ -259,7 +259,7 @@ const TeamPage = () => {
                     </Row>
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/tali-ball.jpg?raw=true" alt="Tali Ball"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/tali-ball.jpg?raw=true" alt="Tali Ball"></img>
                             <h3 className="team-name">Tali Ball</h3>
                             <h4 className="team-title">
                                 Instructor in Psychiatry and Behavioral Sciences
@@ -279,7 +279,7 @@ const TeamPage = () => {
                 <Container>
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/aman-malhotra.jpeg?raw=true" alt="Aman Malhotra"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/aman-malhotra.jpeg?raw=true" alt="Aman Malhotra"></img>
                             <h3 className="team-name">Aman Malhotra</h3>
                             <h4 className="team-title">
                                 Undergraduate Researcher
@@ -293,7 +293,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/mehul-arora.jpeg?raw=true" alt="Mehul Arora"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/mehul-arora.jpeg?raw=true" alt="Mehul Arora"></img>
                             <h3 className="team-name">Mehul Arora</h3>
                             <h4 className="team-title">
                                 Undergraduate Researcher
@@ -308,7 +308,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://media-exp1.licdn.com/dms/image/C4D03AQHIyiGHW_4D8g/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=9KIkzTrx5Ylayy2JcSevVogjev66cMFlf1nIQOo6NpM" alt="Jacqueline Nguyen"></img>
+                            <img class="reframe team-img" src="https://media-exp1.licdn.com/dms/image/C4D03AQHIyiGHW_4D8g/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=9KIkzTrx5Ylayy2JcSevVogjev66cMFlf1nIQOo6NpM" alt="Jacqueline Nguyen"></img>
                             <h3 className="team-name">Jacqueline Nguyen</h3>
                             <h4 className="team-title">
                                 Postgraduate Researcher
@@ -330,7 +330,7 @@ const TeamPage = () => {
                 <Container>
                     <Row>
                     <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/shree-reddy.jpeg?raw=true" alt="Shree Reddy"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/shree-reddy.jpeg?raw=true" alt="Shree Reddy"></img>
                             <h3 className="team-name">Shree Reddy</h3>
                             <h4 className="team-title">
                                 
@@ -344,7 +344,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/anusha-kuchibholta.png?raw=true" alt="Anusha Kuchibholta"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/anusha-kuchibholta.png?raw=true" alt="Anusha Kuchibholta"></img>
                             <h3 className="team-name">Anusha Kuchibholta</h3>
                             <h4 className="team-title">
                                 
@@ -358,7 +358,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/lindsay-jamieson.jpg?raw=true" alt="Lindsay Jamieson"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/lindsay-jamieson.jpg?raw=true" alt="Lindsay Jamieson"></img>
                             <h3 className="team-name">Lindsay Jamieson</h3>
                             <h4 className="team-title">
                                 
@@ -372,7 +372,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/ishan-goyal.jpg?raw=true" alt="Ishan Goyal"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/ishan-goyal.jpg?raw=true" alt="Ishan Goyal"></img>
                             <h3 className="team-name">Ishan Goyal</h3>
                             <h4 className="team-title">
                                 
@@ -389,7 +389,7 @@ const TeamPage = () => {
                     </Row> 
                     <Row>
                     <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/alyssa-jackson.jpg?raw=true" alt="Alyssa Jackson"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/alyssa-jackson.jpg?raw=true" alt="Alyssa Jackson"></img>
                             <h3 className="team-name">Alyssa Jackson</h3>
                             <h4 className="team-title">
                                 Software Engineer Specialist at SAE International
@@ -403,7 +403,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/emily-jusuf.jpeg?raw=true" alt="Emily Jusuf"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/emily-jusuf.jpeg?raw=true" alt="Emily Jusuf"></img>
                             <h3 className="team-name">Emily Jusuf</h3>
                             <h4 className="team-title">
                                 
@@ -418,7 +418,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/aditi-gupta.jpg?raw=true" alt="Aditi Gupta"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/aditi-gupta.jpg?raw=true" alt="Aditi Gupta"></img>
                             <h3 className="team-name">Aditi Gupta</h3>
                             <h4 className="team-title">
                                 Undergraduate Researcher at Dartmouth
@@ -432,7 +432,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/aidan-levin.jpg?raw=true" alt="Aidan Levin"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/aidan-levin.jpg?raw=true" alt="Aidan Levin"></img>
                             <h3 className="team-name">Aidan Levin</h3>
                             <h4 className="team-title">
                                 
@@ -449,7 +449,7 @@ const TeamPage = () => {
                     </Row> 
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/agata-kelman.jpg?raw=true" alt="Agata Kelman"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/agata-kelman.jpg?raw=true" alt="Agata Kelman"></img>
                             <h3 className="team-name">Agata Kelman</h3>
                             <h4 className="team-title">
                                 
@@ -463,7 +463,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/candace-hagey.jpeg?raw=true" alt="Candace Hagey"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/candace-hagey.jpeg?raw=true" alt="Candace Hagey"></img>
                             <h3 className="team-name">Candace Hagey</h3>
                             <h4 className="team-title">
                                 Senior Clinical Trial Coordinator at Alector
@@ -477,7 +477,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/joshua-chon.jpg?raw=true" alt="Alyssa Jackson"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/joshua-chon.jpg?raw=true" alt="Alyssa Jackson"></img>
                             <h3 className="team-name">Joshua Chon</h3>
                             <h4 className="team-title">
                                 
@@ -491,7 +491,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/akansha-shrivastava.jpg?raw=true" alt="Akanksha Shrivastava"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/akansha-shrivastava.jpg?raw=true" alt="Akanksha Shrivastava"></img>
                             <h3 className="team-name">Akanksha Shrivastava</h3>
                             <h4 className="team-title">
                                 Design Researcher - Tech at Walmart
@@ -508,7 +508,7 @@ const TeamPage = () => {
                     </Row> 
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/yi-hsuan-wu.jpg?raw=true" alt="Yi-Hsuan Wu"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/yi-hsuan-wu.jpg?raw=true" alt="Yi-Hsuan Wu"></img>
                             <h3 className="team-name">Yi-Hsuan Wu</h3>
                             <h4 className="team-title">
                                 UX Designer/Researcher at Fuzz Interactive
@@ -523,7 +523,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/eli-rice.png?raw=true" alt="Eli Rice"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/eli-rice.png?raw=true" alt="Eli Rice"></img>
                             <h3 className="team-name">Eli Rice</h3>
                             <h4 className="team-title">
                                 Clinical Research Coordinator at Stanford University School of Medicine
@@ -537,7 +537,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/1.png?raw=true" alt="Sae Du"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/imgs/1.png?raw=true" alt="Sae Du"></img>
                             <h3 className="team-name">Sae Du</h3>
                             <h4 className="team-title">
                                 
@@ -551,7 +551,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/anna-speder.png?raw=true" alt="Anna Speder"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/anna-speder.png?raw=true" alt="Anna Speder"></img>
                             <h3 className="team-name">Anna Speder</h3>
                             <h4 className="team-title">
                                 
@@ -568,7 +568,7 @@ const TeamPage = () => {
                     </Row> 
                     <Row>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/satvir-basran.png?raw=true" alt="Satvir Basran"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/satvir-basran.png?raw=true" alt="Satvir Basran"></img>
                             <h3 className="team-name">Satvir Basran</h3>
                             <h4 className="team-title">
                                 
@@ -582,7 +582,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/eman-magzoub.png?raw=true" alt="Eman Magzoub"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/eman-magzoub.png?raw=true" alt="Eman Magzoub"></img>
                             <h3 className="team-name">Eman Magzoub</h3>
                             <h4 className="team-title">
                                 
@@ -595,7 +595,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/elaheh-salehi.jpeg?raw=true" alt="Elaheh Salehi"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/elaheh-salehi.jpeg?raw=true" alt="Elaheh Salehi"></img>
                             <h3 className="team-name">Elaheh Salehi</h3>
                             <h4 className="team-title">
                                 
@@ -609,7 +609,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/talia-regenstein.jpeg?raw=true" alt="Talia Regenstein"></img>
+                            <img class="reframe team-img" src="https://github.com/jacquelinennguyen/wehab_new_site/blob/master/Desktop/wehab-site/src/team-imgs/talia-regenstein.jpeg?raw=true" alt="Talia Regenstein"></img>
                             <h3 className="team-name">Talia Regenstein</h3>
                             <h4 className="team-title">
                                 Market Research Associate at Guidepoint
@@ -623,7 +623,7 @@ const TeamPage = () => {
                             </p>                         
                         </Col>
                         <Col md={3} sm={6} xs={12}>
-                            <img class="reframe" src="https://media-exp1.licdn.com/dms/image/C5603AQGHcpIBVsK20A/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=02_V5S8aaEfRIB0lqiTMMPh0RupS8aQn2g9d_V4PImo" alt="Ben Voogd"></img>
+                            <img class="reframe team-img" src="https://media-exp1.licdn.com/dms/image/C5603AQGHcpIBVsK20A/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=02_V5S8aaEfRIB0lqiTMMPh0RupS8aQn2g9d_V4PImo" alt="Ben Voogd"></img>
                             <h3 className="team-name">Benjamin Voogd</h3>
                             <h4 className="team-title">
                                 Behavior Technician at ACES

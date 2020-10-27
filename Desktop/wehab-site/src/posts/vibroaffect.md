@@ -1,0 +1,5 @@
+---
+title: "VibroAffect: The Underlying Affect Regulation Mechanism of a VibrotactileBreathing Pacer"
+---
+#### Abstract
+Vibrotactile devices that assist in affect regulation are becoming more common, but the underlying mechanisms that link vibrotactile sensations to affect are not well understood. We investigate how a repetitive pattern of vibrations designed to guide users through slow-paced breathing impacted breathing rate and skin conductance. Even though participants could not fully shift their breathing to match the pacer rate while performing cognitive stressor tasks, their attempts led to a slower rate of breathing, greater breathing irregularity, and greater chest-to-abdomen displacement ratio compared  to the control group. However, these changes were not related to changes in skin conductance or self-reported anxiety. This paper clarifies the link between vibrotactile sensation and psychophysiology and offers guidelines for evaluating other affect regulation technologies.
